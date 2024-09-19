@@ -1,0 +1,25 @@
+baseURL = 'https://eltelar.xyz/'
+languageCode = 'es-mx'
+title = 'El Telar'
+description = 'Taller Literario Orgullosamente Chihuahuense'
+theme = 'ardeidae'
+
+[params]
+  subtitle = 'Taller Literario Orgullosamente Chihuahuense'
+
+[menus]
+  [[menus.main]]
+    identifier = "authors"
+    name = "Autores"
+    url = "/authors"
+    weight = 1
+  [[menus.main]]
+    identifier = "posts"
+    name = "Publicaciones"
+    url = "/posts"
+    weight = 2
+  [[menus.main]]
+    identifier = "contact"
+    name = "Contacto"
+    url = "/contact"
+    weight = 3
