@@ -5,7 +5,15 @@
 
     <title>{{.Title}} | {{ .Site.Title }} | {{.Site.Params.subtitle}}</title>
     <meta name="description" content="{{ .Site.Params.description }}" />
-
+    
+    <!-- Etiquetas Open Graph -->
+    <meta property="og:title" content="{{.Title}} | {{ .Site.Title }} | {{.Site.Params.subtitle}}">
+    <meta property="og:description" content="{{ .Site.Params.description }}">
+    <meta property="og:image" content="/images/meta.png">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="{{ .Site.Title }}">
+    
     {{ range .AlternativeOutputFormats -}}
         {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
     {{ end -}}
