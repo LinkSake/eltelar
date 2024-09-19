@@ -1,7 +1,7 @@
 baseURL = 'https://eltelar.xyz/'
 languageCode = 'es-mx'
 title = 'El Telar'
-description = 'Taller Literario Orgullosamente Chihuahuense'
+description = 'El Telar es un taller de creación literaria en Chihuahua, ubicado en el LivingLab del Parque Industrial Las Américas. Fundado en 2024, reúne a escritores egresados de los talleres “Tejiendo Relatos” de Alejandro Manzano. Con autores reconocidos como Mauricio Padilla, Jonathan Moreno y Alfonso Carrera, es un espacio colaborativo que impulsa la narrativa escrita y la creatividad literaria.'
 theme = 'ardeidae'
 
 [params]
