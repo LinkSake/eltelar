@@ -1,5 +1,6 @@
 ---
 title: ¡Acompáñanos en el Museo Sebastián este jueves 19 de septiembre!
+description: Te invitamos a un evento especial en el Museo Sebastián Casa Siglo XIX donde estaremos compartiendo más sobre nuestro taller y leyendo algunos de nuestros textos.
 date: 2024-09-16
 tags: [anuncios] 
 draft: false
