@@ -14,4 +14,4 @@ Gracias de nuevo por formar parte de esta experiencia.
 
 ¡Nos vemos en la próxima!
 
-<!-- {{< image-gallery gallery_dir="/images/posts/el-evento-en-el-museo-sebastian-fue-un-exito" >}} -->
+{{< image-gallery dir="/images/posts/el-evento-en-el-museo-sebastian-fue-un-exito" >}}
