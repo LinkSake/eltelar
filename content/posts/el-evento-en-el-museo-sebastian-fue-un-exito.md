@@ -14,5 +14,5 @@ Gracias de nuevo por formar parte de esta experiencia.
 
 ¡Nos vemos en la próxima!
 
-{{< gallery "/images/posts/el-evento-en-el-museo-sebastian-fue-un-exito/1.jpeg /images/posts/el-evento-en-el-museo-sebastian-fue-un-exito/2.jpeg /images/posts/el-evento-en-el-museo-sebastian-fue-un-exito/3.jpeg /images/posts/el-evento-en-el-museo-sebastian-fue-un-exito/4.jpeg /images/posts/el-evento-en-el-museo-sebastian-fue-un-exito/5.jpeg /images/posts/el-evento-en-el-museo-sebastian-fue-un-exito/6.jpeg" >}}
+{{< gallery "/images/posts/el-evento-en-el-museo-sebastian-fue-un-exito/1.jpeg /images/posts/el-evento-en-el-museo-sebastian-fue-un-exito/2.jpeg /images/posts/el-evento-en-el-museo-sebastian-fue-un-exito/3.jpeg /images/posts/el-evento-en-el-museo-sebastian-fue-un-exito/4.jpeg /images/posts/el-evento-en-el-museo-sebastian-fue-un-exito/5.jpeg /images/posts/el-evento-en-el-museo-sebastian-fue-un-exito/6.jpeg /images/posts/el-evento-en-el-museo-sebastian-fue-un-exito/7.jpeg /images/posts/el-evento-en-el-museo-sebastian-fue-un-exito/8.jpeg" >}}
 
