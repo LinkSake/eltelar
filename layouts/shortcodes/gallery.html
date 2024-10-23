@@ -1,0 +1,43 @@
+<style>
+  .image-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Always two columns */
+    gap: 5px; /* Tight spacing between images */
+    margin-top: 1rem;
+  }
+
+  @media (max-width: 600px) {
+    .image-grid {
+      grid-template-columns: 1fr; /* Switch to one column on small screens */
+    }
+  }
+
+  .image-grid img {
+    width: 100%;
+    height: auto; /* Maintain original aspect ratio */
+    object-fit: contain; /* Prevent cropping */
+    border-radius: 4px; /* Slight rounding for aesthetics */
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .image-grid img:hover {
+    transform: scale(1.02); /* Subtle zoom on hover */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  figure {
+    margin: 0;
+    padding: 0;
+  }
+</style>
+
+<div class="image-grid">
+  {{ $images := delimit (split (.Get 0) " ") "," }}
+  {{ range (split $images ",") }}
+  <figure>
+    <a href="{{ . | urlize }}" target="_blank" rel="noopener noreferrer">
+      <img src="{{ . | urlize }}" alt="Gallery Image" />
+    </a>
+  </figure>
+  {{ end }}
+</div>
