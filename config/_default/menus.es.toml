@@ -1,0 +1,61 @@
+# main menu
+[[main]]
+name = "Inicio"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Sobre nosotros"
+url = "/nosotros"
+weight = 2
+
+[[main]]
+name = "Elementos"
+url = "/elementos"
+weight = 3
+
+[[main]]
+weight = 4
+name = "Páginas"
+
+[[main]]
+parent = "Páginas"
+name = "Blog"
+url = "/blog"
+
+[[main]]
+parent = "Páginas"
+name = "Contacto"
+url = "/contacto"
+
+[[main]]
+parent = "Páginas"
+name = "Autores"
+url = "/autores"
+
+[[main]]
+parent = "Páginas"
+name = "Categorias"
+url = "/categories"
+
+[[main]]
+parent = "Páginas"
+name = "404"
+url = "/404"
+
+
+# footer menu
+[[footer]]
+name = "Sobre nosotros"
+url = "/nosotros"
+weight = 1
+
+[[footer]]
+name = "Elementos"
+url = "/elements"
+weight = 2
+
+[[footer]]
+name = "Politica de privacidad"
+url = "/privacy-policy"
+weight = 3

@@ -2,7 +2,7 @@
 <html
   itemscope
   class=""
-  lang="en-us"
+  lang="es-MX"
   itemtype="http://schema.org/WebPage">
   <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     
@@ -222,8 +222,8 @@
 <script>
   let indexURL = "//localhost:1313/searchindex.json";
   let includeSectionsInSearch = ["blog"];
-  let search_no_results = "No results for";
-  let search_initial_message = "Type something to search..";
+  let search_no_results = "No hay resultados para";
+  let search_initial_message = "Escribe algo para buscar..";
 </script>
 
 
@@ -519,7 +519,7 @@
               class="nav-link "
               
               href="/"
-              >Home</a
+              >Inicio</a
             >
           </li>
         
@@ -532,8 +532,8 @@
             <a
               class="nav-link "
               
-              href="/about"
-              >About</a
+              href="/nosotros"
+              >Sobre nosotros</a
             >
           </li>
         
@@ -546,8 +546,8 @@
             <a
               class="nav-link "
               
-              href="/elements"
-              >Elements</a
+              href="/elementos"
+              >Elementos</a
             >
           </li>
         
@@ -579,7 +579,7 @@
                 
                 
                inline-flex items-center">
-              Pages
+              Páginas
               <svg class="h-4 w-4 fill-current" viewBox="0 0 20 20">
                 <path
                   d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
@@ -595,7 +595,7 @@
                     class="nav-dropdown-link "
                     
                     href="/404">
-                    404 Page
+                    404
                   </a>
                 </li>
               
@@ -605,8 +605,8 @@
                   <a
                     class="nav-dropdown-link "
                     
-                    href="/authors">
-                    Authors
+                    href="/autores">
+                    Autores
                   </a>
                 </li>
               
@@ -628,7 +628,7 @@
                     class="nav-dropdown-link "
                     
                     href="/categories">
-                    Categories
+                    Categorias
                   </a>
                 </li>
               
@@ -638,8 +638,8 @@
                   <a
                     class="nav-dropdown-link "
                     
-                    href="/contact">
-                    Contact
+                    href="/contacto">
+                    Contacto
                   </a>
                 </li>
               
@@ -815,12 +815,12 @@
             data-search-input
             autocomplete="off"
             aria-label="Search"
-            placeholder="Search Post..." />
+            placeholder="Buscar publicacion..." />
         </div>
         <div class="search-wrapper-body">
           <div class="search-result" data-search-result></div>
           <span class="search-result-empty">
-            Type something to search..
+            Escribe algo para buscar..
           </span>
         </div>
         <div class="search-wrapper-footer">
@@ -848,7 +848,7 @@
                   d="M3.204 5h9.592L8 10.481 3.204 5zm-.753.659 4.796 5.48a1 1 0 0 0 1.506 0l4.796-5.48c.566-.647.106-1.659-.753-1.659H3.204a1 1 0 0 0-.753 1.659z" />
               </svg>
             </kbd>
-            to navigate
+            para navegar
           </span>
           <span>
             <kbd>
@@ -864,11 +864,11 @@
                   d="M14.5 1.5a.5.5 0 0 1 .5.5v4.8a2.5 2.5 0 0 1-2.5 2.5H2.707l3.347 3.346a.5.5 0 0 1-.708.708l-4.2-4.2a.5.5 0 0 1 0-.708l4-4a.5.5 0 1 1 .708.708L2.707 8.3H12.5A1.5 1.5 0 0 0 14 6.8V2a.5.5 0 0 1 .5-.5z" />
               </svg>
             </kbd>
-            to select
+            para seleccionar
           </span>
           <span class="search-result-info"></span>
           <span data-target="close-search-modal">
-            <kbd>ESC</kbd> to close
+            <kbd>ESC</kbd> para cerrar
           </span>
         </div>
       </div>
@@ -1038,7 +1038,7 @@
             
             <li class="mr-4 inline-block">
               <i class="fa-regular fa-clock mr-2"></i>
-              April 4, 2022
+              4 de abril de 2022
             </li>
           </ul>
           <div class="content mb-10">
@@ -1050,7 +1050,7 @@
 <details open class="table-of-content blog">
   <summary>
     
-      Table of Contents
+      Indice
     
   </summary>
   <nav id="TableOfContents">
@@ -1073,7 +1073,7 @@
             
             
               <div class="lg:col-6 mb-10 flex items-center lg:mb-0">
-                <h5 class="mr-3">Tags :</h5>
+                <h5 class="mr-3">Etiquetas :</h5>
                 <ul>
                   
                     <li class="inline-block">
@@ -1096,7 +1096,7 @@
               </div>
             
             <div class="lg:col-6 flex items-center lg:justify-end">
-              <h5>Share :</h5>
+              <h5>Compartir :</h5>
               
 
 
@@ -1318,29 +1318,6 @@
           </div>
           
           
-            <div class="mt-20">
-              <div id="disqus_thread"></div>
-<script>
-    window.disqus_config = function () {
-    
-    
-    
-    };
-    (function() {
-        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
-            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
-            return;
-        }
-        var d = document, s = d.createElement('script'); s.async = true;
-        s.src = '//' + "themefisher-template" + '.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-            </div>
-          
         </article>
       </div>
 
@@ -1349,7 +1326,7 @@
       
       
         <div class="section pb-0">
-          <h2 class="h3 mb-12">Related Posts</h2>
+          <h2 class="h3 mb-12">Publicaciones relacionadas</h2>
           <div class="row">
             
               <div class="lg:col-4 md:col-6 mb-14">
@@ -1508,7 +1485,7 @@
   <p class="mb-6">Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 </p>
   <a class="btn btn-outline-primary btn-sm" href="/blog/post-1/">
-    Read More
+    Leer más
   </a>
 </div>
 
@@ -1662,7 +1639,7 @@
   <p class="mb-6">Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 </p>
   <a class="btn btn-outline-primary btn-sm" href="/blog/post-4/">
-    Read More
+    Leer más
   </a>
 </div>
 
@@ -1816,7 +1793,7 @@
   <p class="mb-6">Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 </p>
   <a class="btn btn-outline-primary btn-sm" href="/blog/post-3/">
-    Read More
+    Leer más
   </a>
 </div>
 
@@ -1947,9 +1924,9 @@
               <a
                 
                 href="
-                  /about
+                  /nosotros
                 "
-                >About</a
+                >Sobre nosotros</a
               >
             </li>
           
@@ -1959,7 +1936,7 @@
                 href="
                   /elements
                 "
-                >Elements</a
+                >Elementos</a
               >
             </li>
           
@@ -1969,7 +1946,7 @@
                 href="
                   /privacy-policy
                 "
-                >Privacy Policy</a
+                >Politica de privacidad</a
               >
             </li>
           

@@ -56,24 +56,24 @@
     <loc>//localhost:1313/tags/technology/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/authors/</loc>
+    <loc>//localhost:1313/autores/</loc>
   </url><url>
-    <loc>//localhost:1313/contact/</loc>
+    <loc>//localhost:1313/contacto/</loc>
   </url><url>
-    <loc>//localhost:1313/elements/</loc>
+    <loc>//localhost:1313/paginas/elementos/</loc>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>//localhost:1313/nosotros/</loc>
   </url><url>
-    <loc>//localhost:1313/authors/john-doe/</loc>
+    <loc>//localhost:1313/autores/john-doe/</loc>
   </url><url>
-    <loc>//localhost:1313/pages/</loc>
+    <loc>//localhost:1313/paginas/</loc>
   </url><url>
-    <loc>//localhost:1313/privacy-policy/</loc>
+    <loc>//localhost:1313/paginas/privacy-policy/</loc>
   </url><url>
-    <loc>//localhost:1313/authors/sam-wilson/</loc>
+    <loc>//localhost:1313/autores/sam-wilson/</loc>
   </url><url>
-    <loc>//localhost:1313/sections/</loc>
+    <loc>//localhost:1313/secciones/</loc>
   </url><url>
-    <loc>//localhost:1313/authors/william-jacob/</loc>
+    <loc>//localhost:1313/autores/william-jacob/</loc>
   </url>
 </urlset>
