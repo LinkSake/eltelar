@@ -1,9 +1,15 @@
 ---
-title: "Hey, I am John Doe!"
-meta_title: "About"
-description: "this is meta description"
+title: "Sobre nosotros"
+meta_title: "Sobre nosotros"
+description: "El Telar es un taller de creación literaria que sesiona cada semana en el LivingLab, dentro del Parque Industrial Las Américas, en Chihuahua, Chihuahua."
 image: "/images/avatar.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+El Telar es un taller de creación literaria que sesiona cada semana en el [LivingLab](https://livinglab.io/home), dentro del Parque Industrial Las Américas, en Chihuahua, Chihuahua.
+
+Todos sus integrantes son egresados de las Fases I y II del Taller de Creación Literaria “Tejiendo Relatos”, dirigido por el escritor de ciencia-ficción chihuahuense Alejandro Manzano.
+
+El Telar es un espacio de encuentro, escucha y trabajo colectivo entre pares, con un enfoque en la narrativa escrita. Entre sus miembros se cuentan autores reconocidos como Mauricio Padilla, Jonathan Moreno y Alfonso Carrera.
+
+También se enriquece con la participación de autoras y autores de una amplia gama de edades, formaciones y trayectorias. Se fundó en 2024 con el objetivo de ser una herramienta de ayuda mutua y acompañamiento para sus escritores en este cuentote-casi-novela corta que llamamos vida.
