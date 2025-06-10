@@ -1,48 +1,76 @@
 {{ define "main" }}
-  <section class="section-sm pb-0">
-    <div class="container">
-      <div
-        class="row border-border dark:border-darkmode-border justify-center border-b pb-14">
-        <div class="lg:col-4 text-center">
-          {{ $image:= .Params.image }}
-          {{ if $image }}
-            {{ partial "image" (dict "Src" $image "Context" .Page "Alt" .Title "Class" "mx-auto" "Size" "200x200") }}
-          {{ else if .Params.Email }}
-            <img
-              class="mx-auto"
-              alt="{{ .Title }}"
-              height="200"
-              width="200"
-              src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=128&pg&d=identicon" />
-          {{ end }}
-          <h1 class="h3 mt-10">{{ .Title }}</h1>
-          <div class="content mt-6">
-            {{ .Content }}
-          </div>
-          <ul class="social-icons ml-4 mt-10 text-center">
-            {{ range .Params.social }}
-              <li>
-                <a
-                  href="{{ .link | safeURL }}"
-                  target="_blank"
-                  rel="noopener nofollow">
-                  <span class="sr-only">{{ .title }}</span>
-                  <i class="{{ .icon }}"></i>
-                </a>
-              </li>
+<section class="section-sm pb-0">
+  <div class="container">
+    <div
+      class="row border-border dark:border-darkmode-border justify-center border-b pb-14"
+    >
+      <div class="lg:col-4 text-center">
+        {{ $image:= .Params.image }} {{ if $image }} {{ partial "image" (dict
+        "Src" $image "Context" .Page "Alt" .Title "Class" "mx-auto" "Size"
+        "200x200") }} {{ else if .Params.Email }}
+        <img
+          class="mx-auto"
+          alt="{{ .Title }}"
+          height="200"
+          width="200"
+          src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=128&pg&d=identicon"
+        />
+        {{ end }}
+        <h1 class="h3 mt-10">{{ .Title }}</h1>
+        <div class="content text-justify mt-6">{{ .Content }}</div>
+        {{ if .Params.works }}
+        <div class="items-center text-center">
+          <h3>Obras</h3>
+          <div class="flex flex-wrap justify-center my-10">
+            {{ range .Params.works }}
+            <div class="p-4 w-full sm:w-1/2">
+              <a
+                class="underline"
+                href="{{ .link | safeURL }}"
+                target="_blank"
+                rel="noopener nofollow"
+              >
+                <img
+                  class="mx-auto pb-4"
+                  src="{{ .image }}"
+                  alt="{{ .name }}"
+                />
+                {{ .name }}
+              </a>
+            </div>
             {{ end }}
-          </ul>
-        </div>
-      </div>
-
-      <div class="row pb-16 pt-14">
-        {{ $filterByAuthor := where site.RegularPages "Params.author" "==" .Title }}
-        {{ range $filterByAuthor }}
-          <div class="md:col-6 lg:col-4 mb-12">
-            {{ partial "components/blog-card" . }}
           </div>
+        </div>
+        {{ end }} {{ if .Params.social }}
+        <div class="text-center">
+          <h3>Contacto</h3>
+        </div>
+        <ul class="social-icons mt-10 text-center">
+          {{ range .Params.social }}
+          <li>
+            <a
+              href="{{ .link | safeURL }}"
+              target="_blank"
+              rel="noopener nofollow"
+            >
+              <span class="sr-only">{{ .title }}</span>
+              <i class="{{ .icon }}"></i>
+            </a>
+          </li>
+          {{ end }}
+        </ul>
         {{ end }}
       </div>
     </div>
-  </section>
+
+    <div class="row pb-16 pt-14">
+      {{ $filterByAuthor := where site.RegularPages "Params.author" "==" .Title
+      }} {{ range $filterByAuthor }}
+      <div class="md:col-6 lg:col-4 mb-12">
+        {{ partial "components/blog-card" . }}
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
 {{ end }}
