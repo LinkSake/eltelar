@@ -76,6 +76,9 @@ baseName = "searchindex"
 isPlainText = true
 notAlternative = true
 
+[params]
+copyright = "El telar"
+
 [[params.plugins.css]]
 link = "plugins/swiper/swiper-bundle.css"
 lazy = true
