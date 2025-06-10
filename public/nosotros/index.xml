@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hey, I am John Doe! on El telar</title>
+    <title>Sobre nosotros on El telar</title>
     <link>//localhost:1313/nosotros/</link>
-    <description>Recent content in Hey, I am John Doe! on El telar</description>
+    <description>Recent content in Sobre nosotros on El telar</description>
     <generator>Hugo</generator>
     <language>es-MX</language>
     <atom:link href="//localhost:1313/nosotros/index.xml" rel="self" type="application/rss+xml" />
