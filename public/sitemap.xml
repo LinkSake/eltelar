@@ -56,24 +56,34 @@
     <loc>//localhost:1313/tags/technology/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/autores/alejandro-manzano/</loc>
+  </url><url>
+    <loc>//localhost:1313/autores/alfonso-carrera/</loc>
+  </url><url>
     <loc>//localhost:1313/autores/</loc>
   </url><url>
     <loc>//localhost:1313/contacto/</loc>
   </url><url>
     <loc>//localhost:1313/paginas/elementos/</loc>
   </url><url>
-    <loc>//localhost:1313/nosotros/</loc>
+    <loc>//localhost:1313/autores/gaspar-jimenez/</loc>
   </url><url>
-    <loc>//localhost:1313/autores/john-doe/</loc>
+    <loc>//localhost:1313/autores/jonathan-moreno/</loc>
+  </url><url>
+    <loc>//localhost:1313/autores/luis-angel-ortega/</loc>
+  </url><url>
+    <loc>//localhost:1313/autores/luna-sophia-terra/</loc>
+  </url><url>
+    <loc>//localhost:1313/autores/mauricio-padilla/</loc>
+  </url><url>
+    <loc>//localhost:1313/autores/mayi-gonzalez/</loc>
   </url><url>
     <loc>//localhost:1313/paginas/</loc>
   </url><url>
     <loc>//localhost:1313/paginas/privacy-policy/</loc>
   </url><url>
-    <loc>//localhost:1313/autores/sam-wilson/</loc>
-  </url><url>
     <loc>//localhost:1313/secciones/</loc>
   </url><url>
-    <loc>//localhost:1313/autores/william-jacob/</loc>
+    <loc>//localhost:1313/nosotros/</loc>
   </url>
 </urlset>
