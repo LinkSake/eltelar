@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cuentos Infantiles on El telar</title>
+    <link>//localhost:1313/tags/cuentos-infantiles/</link>
+    <description>Recent content in Cuentos Infantiles on El telar</description>
+    <generator>Hugo</generator>
+    <language>es-MX</language>
+    <lastBuildDate>Sun, 29 Sep 2024 05:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/cuentos-infantiles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mayi González es reconocida en Puerto Rico por certamen de cuento infantil</title>
+      <link>//localhost:1313/blog/mayi-gonzalez-es-reconocida-en-puerto-rico-por-certamen-de-cuento-infantil/</link>
+      <pubDate>Sun, 29 Sep 2024 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/mayi-gonzalez-es-reconocida-en-puerto-rico-por-certamen-de-cuento-infantil/</guid>
+      <description>&lt;p&gt;La autora chihuahuense Mayi González, integrante fundadora del taller de creación literaria El Telar desde 2024, obtuvo la Mención Honorífica del jurado del IV Certamen Internacional de Cuentos Infantiles “Cuentos Domingueros”, el cual organizó la casa editorial Con Pluma Papel, con sede en Puerto Rico.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
