@@ -1,7 +1,7 @@
 {
-  "name": "Hugoplate",
-  "short_name": "Hugoplate",
-  "lang": "en-us",
+  "name": "El telar",
+  "short_name": "El telar",
+  "lang": "es-MX",
   "display": "fullscreen",
   "orientation" : "portrait",
   "start_url": "//localhost:1313/?utm_source=web_app_manifest",
