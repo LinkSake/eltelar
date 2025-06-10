@@ -1,5 +1,5 @@
 ---
-title: "Blog Posts"
-meta_title: ""
-description: "this is meta description"
+title: "Publicaciones"
+meta_title: "Publicaciones"
+description: "Noticias, anuncios y otras publicaciones"
 ---
