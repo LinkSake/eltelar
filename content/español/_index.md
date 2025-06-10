@@ -1,53 +1,26 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "El telar: Narrativas en comunidad"
+  content: "Taller literario semanal fundado por egresados del programa 'Tejiendo Relatos'. Un espacio de encuentro, escucha y colaboración enfocado en la narrativa escrita, donde distintas voces se acompañan en el arte de contar historias."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Conócenos"
+    link: "/autores"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "¿Qué es El telar?"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
-    bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
+    content: "El telar es un taller de creación literaria que sesiona cada semana en el LivingLab, ubicado en el Parque Industrial Las Américas, en Chihuahua. Fundado en 2024, surge como una red de apoyo entre escritores con un enfoque en narrativa escrita."
 
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
-    button:
-      enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
-
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
+  - title: "Autores reconocidos"
     image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "El telar reúne tanto a autores en formación como a figuras reconocidas dentro del ámbito literario chihuahuense. Esta mezcla de trayectorias permite un diálogo creativo que enriquece el trabajo de todos los participantes."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
-    button:
-      enable: false
-      label: ""
-      link: ""
+      - "**Alejandro Manzano**, autor de *Archivo Transtorno* y creador del videojuego *The Pitch*."
+      - "**Alfonso Carrera**, autor de *Recarbonización* y becario PECDA y FOMAC."
+      - "**Jonathan Moreno**, autor de *Luces oscuras* y *La calle de los recuerdos*, editor y guionista."
+      - "**Mauricio Padilla**, autor de *Hasta las últimas consecuencias* y narrador premiado en los Premios de Literatura Joven Chihuahua."
 ---
