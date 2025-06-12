@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anuncios on El telar</title>
+    <link>//localhost:1313/categories/anuncios/</link>
+    <description>Recent content in Anuncios on El telar</description>
+    <generator>Hugo</generator>
+    <language>es-MX</language>
+    <lastBuildDate>Mon, 30 Sep 2024 05:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/anuncios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abren las preinscripciones para el Taller de Creación Literaria Tejiendo Relatos</title>
+      <link>//localhost:1313/blog/abren-las-preinscripciones-para-el-taller-de-creacion-literaria-tejiendo-relatos/</link>
+      <pubDate>Mon, 30 Sep 2024 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/abren-las-preinscripciones-para-el-taller-de-creacion-literaria-tejiendo-relatos/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
