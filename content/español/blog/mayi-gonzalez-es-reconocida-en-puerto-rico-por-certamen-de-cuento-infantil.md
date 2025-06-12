@@ -4,7 +4,7 @@ meta_title: "Mayi González es reconocida en Puerto Rico por certamen de cuento 
 description: "Mayi González es reconocida en Puerto Rico por certamen de cuento infantil"
 date: 2024-09-29T05:00:00Z
 image: "/images/blog/mayi-gonzalez-es-reconocida-en-puerto-rico-por-certamen-de-cuento-infantil.jpeg"
-categories: ["Premios", "Convocatorias"]
+categories: ["Premios"]
 author: "Mayi Gonzalez"
 tags: ["cuentos", "cuentos infantiles", "antologias"]
 draft: false

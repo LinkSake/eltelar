@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eventos on El telar</title>
+    <link>//localhost:1313/categories/eventos/</link>
+    <description>Recent content in Eventos on El telar</description>
+    <generator>Hugo</generator>
+    <language>es-MX</language>
+    <lastBuildDate>Mon, 16 Sep 2024 05:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/eventos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¡Acompáñanos en el Museo Sebastián este jueves 19 de septiembre!</title>
+      <link>//localhost:1313/blog/post-3/</link>
+      <pubDate>Mon, 16 Sep 2024 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/post-3/</guid>
+      <description>&lt;p&gt;Te invitamos a un evento especial en el &lt;a href=&#34;https://maps.app.goo.gl/5xinBMEzBwXgYPRN7&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;&lt;strong&gt;Museo Sebastián Casa Siglo XIX&lt;/strong&gt;&lt;/a&gt; donde estaremos compartiendo más sobre nuestro taller y leyendo algunos de nuestros textos.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
