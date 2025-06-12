@@ -3,6 +3,7 @@ title: "Tres datos sobre los maras que nos constan hoy"
 meta_title: "La ONG periodística ProPublica compartió hoy un nuevo artículo, en el que revela cómo los gobiernos de Donald Trump y Nayib Bukele han colaborado a favor de las infames pandillas de la mara salvatrucha (MS-13 y MS-18) durante, al menos, los últimos cuatro años."
 description: "La ONG periodística ProPublica compartió hoy un nuevo artículo, en el que revela cómo los gobiernos de Donald Trump y Nayib Bukele han colaborado a favor de las infames pandillas de la mara salvatrucha (MS-13 y MS-18) durante, al menos, los últimos cuatro años."
 date: 2025-06-12T05:00:00Z
+image: "/images/blog/tres-datos-sobre-los-maras-que-nos-constan-hoy.jpg"
 categories: ["Opinion"]
 author: "Alejandro Manzano"
 tags: ["politica", "actualidad"]
@@ -36,3 +37,5 @@ Se refrenda la moraleja: en el imperialismo (y en su mejor amigo: el fascismo) n
 
 - [1] [https://www.propublica.org/article/bukele-trump-el-salvador-ms13-gang-vulcan-corruption-investigation](https://www.propublica.org/article/bukele-trump-el-salvador-ms13-gang-vulcan-corruption-investigation
 )
+
+- Foto de portada: "[Prison of pain, par Franck Vervial](https://www.flickr.com/photos/44003246@N03/6342765506)" por [Franck Vervial](https://www.flickr.com/photos/44003246@N03) licenciada bajo [CC BY-NC-ND 2.0.](https://creativecommons.org/licenses/by-nc-nd/2.0/?ref=openverse).

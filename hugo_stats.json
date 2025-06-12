@@ -115,6 +115,9 @@
       "form-input",
       "form-label",
       "from-body",
+      "gallery",
+      "gallery-item",
+      "glightbox",
       "gx-5",
       "h-6",
       "h-[400px]",
@@ -292,7 +295,8 @@
       "xl:hidden",
       "xl:space-x-8",
       "z-30",
-      "z-50"
+      "z-50",
+      "zoomable"
     ],
     "ids": [
       "SVGRepo_bgCarrier",
