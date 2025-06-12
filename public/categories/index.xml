@@ -16,6 +16,20 @@
       <description></description>
     </item>
     <item>
+      <title>Anuncios</title>
+      <link>//localhost:1313/categories/anuncios/</link>
+      <pubDate>Mon, 30 Sep 2024 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/anuncios/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Talleres</title>
+      <link>//localhost:1313/categories/talleres/</link>
+      <pubDate>Mon, 30 Sep 2024 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/talleres/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Convocatorias</title>
       <link>//localhost:1313/categories/convocatorias/</link>
       <pubDate>Sun, 29 Sep 2024 05:00:00 +0000</pubDate>
@@ -37,24 +51,10 @@
       <description></description>
     </item>
     <item>
-      <title>Data</title>
-      <link>//localhost:1313/categories/data/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/data/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Software</title>
       <link>//localhost:1313/categories/software/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
       <guid>//localhost:1313/categories/software/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Technology</title>
-      <link>//localhost:1313/categories/technology/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/technology/</guid>
       <description></description>
     </item>
   </channel>
