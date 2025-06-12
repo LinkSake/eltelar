@@ -1,7 +1,7 @@
 ---
 title: Alejandro Manzano
 email: c.alejandromanzano@gmail.com
-image: "/images/avatar.png"
+image: "/images/authors/alejandro-manzano.jpg"
 description: Alejandro Manzano (1994, Chihuahua) es escritor, crítico, periodista y desarrollador de videojuegos independiente.
 social:
   - name: webpage

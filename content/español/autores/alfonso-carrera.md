@@ -1,7 +1,7 @@
 ---
 title: Alfonso Carrera
 email: hvargascarrera@gmail.com
-image: "/images/avatar.png"
+image: "/images/authors/alfonso-carrera.jpg"
 description: Alfonso Vargas Carrera (2004, Estado de México) en 2011 comenzó sus estudios de violín y en 2012, desarrolló su interés por la escritura.
 social:
   - name: email

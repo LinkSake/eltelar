@@ -5,9 +5,7 @@
       <article class="lg:col-10">
         {{ $image:= .Params.image }} {{ if $image }}
         <div class="mb-10">
-          <!-- TODO: Make this scale better or smt  -->
-          {{ partial "image" (dict "Src" $image "Context" .Page "Alt" .Title
-          "Class" "w-full rounded") }}
+          {{ partial "image" (dict "Src" $image "Context" .Page "Alt" .Title "Class" "max-h-[30rem] w-auto rounded mx-auto") }}
         </div>
         {{ end }}
         <h1 class="h2 mb-4">{{ .Title }}</h1>
