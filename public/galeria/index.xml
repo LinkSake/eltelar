@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>El telar</title>
-    <link>//localhost:1313/galeria/</link>
-    <description>Recent content on El telar</description>
-    <generator>Hugo</generator>
-    <language>es-MX</language>
-    <atom:link href="//localhost:1313/galeria/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>El telar</title><link>https://eltelar.xyz/galeria/</link><description>Recent content on El telar</description><generator>Hugo</generator><language>es-MX</language><atom:link href="https://eltelar.xyz/galeria/index.xml" rel="self" type="application/rss+xml"/></channel></rss>

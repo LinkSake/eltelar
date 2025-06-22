@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://eltelar.xyz/"
 title = "El telar"
 theme = "hugoplate"
 timeZone = "America/Chihuahua"

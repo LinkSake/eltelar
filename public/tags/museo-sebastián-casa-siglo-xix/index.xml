@@ -1,26 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Museo Sebastián Casa Siglo XIX on El telar</title>
-    <link>//localhost:1313/tags/museo-sebasti%C3%A1n-casa-siglo-xix/</link>
-    <description>Recent content in Museo Sebastián Casa Siglo XIX on El telar</description>
-    <generator>Hugo</generator>
-    <language>es-MX</language>
-    <lastBuildDate>Fri, 20 Sep 2024 05:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/museo-sebasti%C3%A1n-casa-siglo-xix/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>¡El evento en el Museo Sebastián fue un éxito!</title>
-      <link>//localhost:1313/blog/el-evento-en-el-museo-sebastian-fue-un-exito/</link>
-      <pubDate>Fri, 20 Sep 2024 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/el-evento-en-el-museo-sebastian-fue-un-exito/</guid>
-      <description>&lt;p&gt;Queremos agradecer a todos los que nos acompañaron el pasado jueves 19 de septiembre en el Museo Sebastián. Fue una tarde increíble llena de literatura, presentaciones y conversaciones inolvidables.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>¡Acompáñanos en el Museo Sebastián este jueves 19 de septiembre!</title>
-      <link>//localhost:1313/blog/el-telar-en-el-museo-sebastian/</link>
-      <pubDate>Mon, 16 Sep 2024 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/el-telar-en-el-museo-sebastian/</guid>
-      <description>&lt;p&gt;Te invitamos a un evento especial en el &lt;a href=&#34;https://maps.app.goo.gl/5xinBMEzBwXgYPRN7&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;&lt;strong&gt;Museo Sebastián Casa Siglo XIX&lt;/strong&gt;&lt;/a&gt; donde estaremos compartiendo más sobre nuestro taller y leyendo algunos de nuestros textos.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Museo Sebastián Casa Siglo XIX on El telar</title><link>https://eltelar.xyz/tags/museo-sebasti%C3%A1n-casa-siglo-xix/</link><description>Recent content in Museo Sebastián Casa Siglo XIX on El telar</description><generator>Hugo</generator><language>es-MX</language><lastBuildDate>Fri, 20 Sep 2024 05:00:00 +0000</lastBuildDate><atom:link href="https://eltelar.xyz/tags/museo-sebasti%C3%A1n-casa-siglo-xix/index.xml" rel="self" type="application/rss+xml"/><item><title>¡El evento en el Museo Sebastián fue un éxito!</title><link>https://eltelar.xyz/blog/el-evento-en-el-museo-sebastian-fue-un-exito/</link><pubDate>Fri, 20 Sep 2024 05:00:00 +0000</pubDate><guid>https://eltelar.xyz/blog/el-evento-en-el-museo-sebastian-fue-un-exito/</guid><description>&lt;p>Queremos agradecer a todos los que nos acompañaron el pasado jueves 19 de septiembre en el Museo Sebastián. Fue una tarde increíble llena de literatura, presentaciones y conversaciones inolvidables.&lt;/p></description></item><item><title>¡Acompáñanos en el Museo Sebastián este jueves 19 de septiembre!</title><link>https://eltelar.xyz/blog/el-telar-en-el-museo-sebastian/</link><pubDate>Mon, 16 Sep 2024 05:00:00 +0000</pubDate><guid>https://eltelar.xyz/blog/el-telar-en-el-museo-sebastian/</guid><description>&lt;p>Te invitamos a un evento especial en el &lt;a href="https://maps.app.goo.gl/5xinBMEzBwXgYPRN7"
+
+
+
+
+ target="_blank"
+ 
+
+
+>&lt;strong>Museo Sebastián Casa Siglo XIX&lt;/strong>&lt;/a> donde estaremos compartiendo más sobre nuestro taller y leyendo algunos de nuestros textos.&lt;/p></description></item></channel></rss>
