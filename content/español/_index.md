@@ -5,7 +5,7 @@ banner:
   content: "Taller literario semanal fundado por egresados del programa 'Tejiendo Relatos'. Un espacio de encuentro, escucha y colaboración enfocado en la narrativa escrita, donde distintas voces se acompañan en el arte de contar historias."
   image: "/images/banner.png"
   button:
-    enable: true
+    enable: false
     label: "Conócenos"
     link: "/autores"
 

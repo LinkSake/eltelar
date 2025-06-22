@@ -10,9 +10,9 @@
     <atom:link href="//localhost:1313/categories/eventos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>¡Acompáñanos en el Museo Sebastián este jueves 19 de septiembre!</title>
-      <link>//localhost:1313/blog/post-3/</link>
+      <link>//localhost:1313/blog/el-telar-en-el-museo-sebastian/</link>
       <pubDate>Mon, 16 Sep 2024 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/post-3/</guid>
+      <guid>//localhost:1313/blog/el-telar-en-el-museo-sebastian/</guid>
       <description>&lt;p&gt;Te invitamos a un evento especial en el &lt;a href=&#34;https://maps.app.goo.gl/5xinBMEzBwXgYPRN7&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;&lt;strong&gt;Museo Sebastián Casa Siglo XIX&lt;/strong&gt;&lt;/a&gt; donde estaremos compartiendo más sobre nuestro taller y leyendo algunos de nuestros textos.&lt;/p&gt;</description>
     </item>
   </channel>

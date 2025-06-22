@@ -16,10 +16,24 @@
       <description></description>
     </item>
     <item>
+      <title>Premios</title>
+      <link>//localhost:1313/categories/premios/</link>
+      <pubDate>Mon, 24 Mar 2025 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/premios/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Anuncios</title>
       <link>//localhost:1313/categories/anuncios/</link>
-      <pubDate>Mon, 30 Sep 2024 05:00:00 +0000</pubDate>
+      <pubDate>Mon, 04 Nov 2024 05:00:00 +0000</pubDate>
       <guid>//localhost:1313/categories/anuncios/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Evento</title>
+      <link>//localhost:1313/categories/evento/</link>
+      <pubDate>Mon, 04 Nov 2024 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/evento/</guid>
       <description></description>
     </item>
     <item>
@@ -30,31 +44,17 @@
       <description></description>
     </item>
     <item>
-      <title>Convocatorias</title>
-      <link>//localhost:1313/categories/convocatorias/</link>
-      <pubDate>Sun, 29 Sep 2024 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/convocatorias/</guid>
+      <title>Galería</title>
+      <link>//localhost:1313/categories/galer%C3%ADa/</link>
+      <pubDate>Fri, 20 Sep 2024 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/galer%C3%ADa/</guid>
       <description></description>
     </item>
     <item>
-      <title>Premios</title>
-      <link>//localhost:1313/categories/premios/</link>
-      <pubDate>Sun, 29 Sep 2024 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/premios/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Architecture</title>
-      <link>//localhost:1313/categories/architecture/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/architecture/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Software</title>
-      <link>//localhost:1313/categories/software/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/software/</guid>
+      <title>Eventos</title>
+      <link>//localhost:1313/categories/eventos/</link>
+      <pubDate>Mon, 16 Sep 2024 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/eventos/</guid>
       <description></description>
     </item>
   </channel>
