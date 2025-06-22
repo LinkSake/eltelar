@@ -2,6 +2,7 @@
 title: Luna Sophia Terra
 email: luna.sophia.terra@email.com
 description: Luna Sophia Terra (Chihuahua, 1988) es escritora, artista plástica, tallerista autogestiva y crítica de videojuegos.
+aliases: ["/luna-sophia-terra"]
 image: "/images/authors/luna-sophia-terra.jpg"
 social:
   - name: webpage

@@ -2,6 +2,7 @@
 title: Mayi Gonzalez
 email: mayigonzalez@email.com
 description: Licenciada en educación primaria.
+aliases: ["/mayi-gonzalez"]
 image: "/images/authors/mayi-gonzalez.jpg"
 social:
   - name: instagram
