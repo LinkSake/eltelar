@@ -1,180 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Inicio on El Telar</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Inicio on El Telar</description>
-    <generator>Hugo</generator>
-    <language>es-mx</language>
-    <lastBuildDate>Sat, 21 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>¿El fin de la IA?</title>
-      <link>http://localhost:1313/posts/el-fin-de-la-ia/</link>
-      <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/el-fin-de-la-ia/</guid>
-      <description>&lt;p&gt;El 30 de noviembre de 2022, OpenAI lanzó ChatGPT, su infame arma de destrucción cognitiva. Por espacio de tres años, las empresas líderes del sector tecnológico —apoyadas por una sarta de cómplices: medios de comunicación, instituciones educativas, gobiernos, &lt;em&gt;influencers&lt;/em&gt;; ingenuos o dolosos, para fines prácticos, da igual— impusieron la mal llamada “IA” (LLMs y modelos generadores de imágenes, audio y video) en cuanto canal estuvo a su alcance. Entre la promoción constante y la integración forzada a través de apps, sitios web, plataformas, lograron que criticar se sintiera quijotesco: digas lo que digas, argumentes como lo argumentes, “la IA está aquí para quedarse”, “es una herramienta”, “pobre de ti si no tienes la mente abierta a la nueva tecnología.”&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tres datos sobre los maras que nos constan hoy</title>
-      <link>http://localhost:1313/posts/tres-datos-sobre-los-maras-que-nos-constan-hoy/</link>
-      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/tres-datos-sobre-los-maras-que-nos-constan-hoy/</guid>
-      <description>&lt;p&gt;La ONG periodística ProPublica compartió hoy un nuevo artículo[1], en el que revela cómo los gobiernos de Donald Trump y Nayib Bukele han colaborado a favor de las infames pandillas de la &amp;ldquo;mara salvatrucha&amp;rdquo; (MS-13 y MS-18) durante, al menos, los últimos cuatro años.&lt;/p&gt;&#xA;&lt;p&gt;En concreto: en 2023, Trump deportó a líderes mareros a El Salvador, antes de que pudieran declarar en tribunales yanquis sobre la colusión entre sus pandillas y Bukele. Además, el gobierno estadounidense ya estaba enterado de cómo Bukele pactaba con estas organizaciones criminales (aún mientras ambos regímenes simulaban lo contrario) para darles dinero y sacar a algunos miembros de la cárcel a cambio de que obligaran a los salvadoreños a votar por Nuevas Ideas, el partido de Bukele, y asesinaran a menos personas (no un paro completo, solo una reducción) para mejorar la imagen pública del gobierno de San Salvador.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Luis Ángel Ortega, seleccionado en la octava emisión del FOMAC con su proyecto &#34;La cueva&#34;</title>
-      <link>http://localhost:1313/posts/luis-angel-fomac-8/</link>
-      <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/luis-angel-fomac-8/</guid>
-      <description>&lt;p&gt;Nos complace compartir una noticia que enorgullece a todo el colectivo. Nuestro estimado miembro, &lt;a href=&#34;http://localhost:1313/authors/luis-angel-ortega/&#34;&gt;Luis Ángel Ortega Holguín&lt;/a&gt;, ha sido seleccionado en la &lt;a href=&#34;https://www.municipiochihuahua.gob.mx/CCS/Prensa/Anuncia_Municipio_a_los_seleccionados_de_la_octava_emisi%C3%B3n_del_FOMAC&#34;&gt;octava emisión del Fondo Municipal para Artistas y Creadores (FOMAC)&lt;/a&gt; con su proyecto titulado &amp;ldquo;La cueva&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;El FOMAC es una iniciativa del Gobierno Municipal que, a través del Instituto de Cultura del Municipio, busca apoyar y promover el talento de artistas y creadores locales. En esta edición, Luis Ángel ha sido reconocido en la categoría de Creadores Emergentes, lo que subraya su dedicación y talento en el ámbito artístico.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Luna Terra participará en la antología &#34;Romances de Época 2025&#34; de Editorial Lebri</title>
-      <link>http://localhost:1313/posts/luna-seleccionada-romances-25/</link>
-      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/luna-seleccionada-romances-25/</guid>
-      <description>&lt;p&gt;Nos complace anunciar que nuestra estimada compañera de, &lt;a href=&#34;http://localhost:1313/authors/luna-sophia-terra/&#34;&gt;Luna Sophia Terra&lt;/a&gt;, ha sido seleccionada para formar parte de la antología &lt;a href=&#34;https://lebri.com.mx/site4/index.php/concursos-convocatorias/romances-de-epoca&#34;&gt;&amp;ldquo;Romances de Época 2025&amp;rdquo; de Editorial Lebri&lt;/a&gt;. Esta convocatoria busca reunir relatos originales e inéditos ambientados en épocas pasadas, resaltando la creatividad y talento de escritores contemporáneos&lt;/p&gt;&#xA;&lt;p&gt;Felicitamos sinceramente a Luna Sophia por este reconocimiento y esperamos con entusiasmo la publicación de &amp;ldquo;Romances de Época 2025&amp;rdquo;, convencidos de que su contribución será una pieza destacada en esta colección.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>¡Prepárate para adentrarte en el Salvaje Oeste de lo sobrenatural!</title>
-      <link>http://localhost:1313/posts/preparate-para-adentrarte-en-el-salvaje-oeste-de-lo-sobrenatural/</link>
-      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/preparate-para-adentrarte-en-el-salvaje-oeste-de-lo-sobrenatural/</guid>
-      <description>&lt;p&gt;Este jueves 7 de noviembre, dentro del marco de la &lt;a href=&#34;https://www.facebook.com/FELICHOficial/&#34;&gt;Feria del Libro de Chihuahua (FELICH) 2024&lt;/a&gt;, te invitamos a la presentación de Luces Oscuras, la nueva novela de western y fantasía oscura de &lt;a href=&#34;http://localhost:1313/authors/jonathan-moreno&#34;&gt;Jonathan Moreno Esquivel&lt;/a&gt;. Con una narrativa envolvente y personajes atrapados entre el bien y el mal, esta obra promete llevarte por caminos llenos de misterio y peligro.&lt;/p&gt;&#xA;&lt;p&gt;La presentación estará a cargo de &lt;a href=&#34;http://localhost:1313/authors/alejandro-manzano&#34;&gt;Alejandro Manzano&lt;/a&gt;, escritor chihuahuense reconocido por sus obras de ciencia ficción, quien compartirá sus impresiones sobre este relato intrigante. 📖✨&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Abren las preinscripciones para el Taller de Creación Literaria Tejiendo Relatos</title>
-      <link>http://localhost:1313/posts/abren-las-preinscripciones-para-el-taller-de-creacion-literaria-tejiendo-relatos/</link>
-      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/abren-las-preinscripciones-para-el-taller-de-creacion-literaria-tejiendo-relatos/</guid>
-      <description>&lt;p&gt;El reconocido Taller de Creación Literaria Tejiendo Relatos anuncia la convocatoria para su siguiente edición, que inicia en febrero de 2025.&lt;/p&gt;&#xA;&lt;p&gt;Tejiendo Relatos fue el taller formativo del que emanó El Telar. Consta de 12 sesiones en las que los talleristas aprenden, desde un enfoque práctico, tanto habilidades básicas del escritor profesional como el marco teórico necesario para elevar el nivel de su quehacer literario.&lt;/p&gt;&#xA;&lt;p&gt;Famoso por sus ejercicios presenciales, sus hojas de trabajo y sus dinámicas colectivas, Tejiendo Relatos ha tenido el honor de acompañar el despegue de las trayectorias de reconocidos escritores chihuahuenses como Mauricio Padilla, Alfonso Carrera, Mayi González y Mónica Nicole Rodríguez.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>¿El fin de la IA?</title>
-      <link>//localhost:1313/blog/el-fin-de-la-ia/</link>
-      <pubDate>Sat, 21 Jun 2025 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/el-fin-de-la-ia/</guid>
-      <description>&lt;p&gt;El 30 de noviembre de 2022, OpenAI lanzó ChatGPT, su infame arma de destrucción cognitiva. Por espacio de tres años, las empresas líderes del sector tecnológico —apoyadas por una sarta de cómplices: medios de comunicación, instituciones educativas, gobiernos, &lt;em&gt;influencers&lt;/em&gt;; ingenuos o dolosos, para fines prácticos, da igual— impusieron la mal llamada “IA” (LLMs y modelos generadores de imágenes, audio y video) en cuanto canal estuvo a su alcance. Entre la promoción constante y la integración forzada a través de apps, sitios web, plataformas, lograron que criticar se sintiera quijotesco: digas lo que digas, argumentes como lo argumentes, “la IA está aquí para quedarse”, “es una herramienta”, “pobre de ti si no tienes la mente abierta a la nueva tecnología.”&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tres datos sobre los maras que nos constan hoy</title>
-      <link>//localhost:1313/blog/tres-datos-sobre-los-maras-que-nos-constan-hoy/</link>
-      <pubDate>Thu, 12 Jun 2025 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/tres-datos-sobre-los-maras-que-nos-constan-hoy/</guid>
-      <description>&lt;p&gt;La ONG periodística ProPublica compartió hoy un nuevo artículo &lt;sub&gt;&lt;sup&gt;&lt;a href=&#34;https://www.propublica.org/article/bukele-trump-el-salvador-ms13-gang-vulcan-corruption-investigation&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/sub&gt;, en el que revela cómo los gobiernos de Donald Trump y Nayib Bukele han colaborado a favor de las infames pandillas de la &amp;ldquo;mara salvatrucha&amp;rdquo; (MS-13 y MS-18) durante, al menos, los últimos cuatro años.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Luis Ángel Ortega, seleccionado en la octava emisión del FOMAC con su proyecto &#39;La cueva&#39;</title>
-      <link>//localhost:1313/blog/luis-angel-fomac-8/</link>
-      <pubDate>Mon, 24 Mar 2025 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/luis-angel-fomac-8/</guid>
-      <description>&lt;p&gt;Nos complace compartir una noticia que enorgullece a todo el colectivo. Nuestro estimado miembro, &lt;strong&gt;Luis Ángel Ortega Holguín&lt;/strong&gt;, ha sido seleccionado en la &lt;a href=&#34;https://www.municipiochihuahua.gob.mx/CCS/Prensa/Anuncia_Municipio_a_los_seleccionados_de_la_octava_emisi%C3%B3n_del_FOMAC&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;octava emisión del Fondo Municipal para Artistas y Creadores (FOMAC)&lt;/a&gt; con su proyecto titulado &amp;ldquo;La cueva&amp;rdquo;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Luna Terra participará en la antología &#39;Romances de Época 2025&#39; de Editorial Lebri</title>
-      <link>//localhost:1313/blog/luna-seleccionada-romances-25/</link>
-      <pubDate>Wed, 19 Mar 2025 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/luna-seleccionada-romances-25/</guid>
-      <description>&lt;p&gt;Nos complace anunciar que nuestra estimada compañera de, Luna Sophia Terra, ha sido seleccionada para formar parte de la antología &lt;a href=&#34;https://lebri.com.mx/site4/index.php/concursos-convocatorias/romances-de-epoca&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;&amp;ldquo;Romances de Época 2025&amp;rdquo; de Editorial Lebri&lt;/a&gt;. Esta convocatoria busca reunir relatos originales e inéditos ambientados en épocas pasadas, resaltando la creatividad y talento de escritores contemporáneos&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>¡Prepárate para adentrarte en el Salvaje Oeste de lo sobrenatural!</title>
-      <link>//localhost:1313/blog/preparate-para-adentrarte-en-el-salvaje-oeste-de-lo-sobrenatural/</link>
-      <pubDate>Mon, 04 Nov 2024 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/preparate-para-adentrarte-en-el-salvaje-oeste-de-lo-sobrenatural/</guid>
-      <description>&lt;p&gt;Este jueves 7 de noviembre, dentro del marco de la &lt;a href=&#34;https://www.facebook.com/FELICHOficial/&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;Feria del Libro de Chihuahua (FELICH) 2024&lt;/a&gt;, te invitamos a la presentación de Luces Oscuras, la nueva novela de western y fantasía oscura de &lt;a href=&#34;//localhost:1313/authors/jonathan-moreno&#34;&#xA;&#xA;&#xA;&#xA; &#xA;&#xA;&#xA;&gt;Jonathan Moreno Esquivel&lt;/a&gt;. Con una narrativa envolvente y personajes atrapados entre el bien y el mal, esta obra promete llevarte por caminos llenos de misterio y peligro.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Abren las preinscripciones para el Taller de Creación Literaria Tejiendo Relatos</title>
-      <link>//localhost:1313/blog/abren-las-preinscripciones-para-el-taller-de-creacion-literaria-tejiendo-relatos/</link>
-      <pubDate>Mon, 30 Sep 2024 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/abren-las-preinscripciones-para-el-taller-de-creacion-literaria-tejiendo-relatos/</guid>
-      <description>&lt;p&gt;El reconocido Taller de Creación Literaria Tejiendo Relatos anuncia la convocatoria para su siguiente edición, que inicia en febrero de 2025.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mayi González es reconocida en Puerto Rico por certamen de cuento infantil</title>
-      <link>http://localhost:1313/posts/mayi-gonzalez-es-reconocida-en-puerto-rico-por-certamen-de-cuento-infantil/</link>
-      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/mayi-gonzalez-es-reconocida-en-puerto-rico-por-certamen-de-cuento-infantil/</guid>
-      <description>&lt;p&gt;La autora chihuahuense Mayi González, integrante fundadora del taller de creación literaria El Telar desde 2024, obtuvo la Mención Honorífica del jurado del IV Certamen Internacional de Cuentos Infantiles “Cuentos Domingueros”, el cual organizó la casa editorial Con Pluma Papel, con sede en Puerto Rico.&lt;/p&gt;&#xA;&lt;p&gt;El cuento premiado se titula “La estrella que quería brillar”. El fallo oficial explica que el jurado estuvo compuesto “por expertas en Literatura Infantil de Venezuela, República Dominicana y Puerto Rico: Lismar Marcano, Geraldine Di Santi y Nana &amp;amp; Nina (Caroll López Beltrán y Joanne López Ponzio)”. Acerca del cuento de Mayi González, el jurado manifestó que: “nos presenta una emotiva reflexión sobre la autoaceptación, el valor personal y la comprensión de los propios talentos.”&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>¡El evento en el Museo Sebastián fue un éxito!</title>
-      <link>http://localhost:1313/posts/el-evento-en-el-museo-sebastian-fue-un-exito/</link>
-      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/el-evento-en-el-museo-sebastian-fue-un-exito/</guid>
-      <description>&lt;p&gt;Queremos agradecer a todos los que nos acompañaron el pasado jueves 19 de septiembre en el Museo Sebastián. Fue una tarde increíble llena de literatura, presentaciones y conversaciones inolvidables.&lt;/p&gt;&#xA;&lt;p&gt;En esta publicación, te compartimos algunas &lt;strong&gt;imágenes&lt;/strong&gt; y &lt;strong&gt;videos&lt;/strong&gt; del evento para revivir los momentos más destacados. ¡Esperamos que los disfrutes tanto como nosotros!&lt;/p&gt;&#xA;&lt;p&gt;Gracias de nuevo por formar parte de esta experiencia.&lt;/p&gt;&#xA;&lt;p&gt;¡Nos vemos en la próxima!&lt;/p&gt;&#xA;&lt;style&gt;&#xA;  .image-grid {&#xA;    display: grid;&#xA;    grid-template-columns: repeat(2, 1fr);  &#xA;    gap: 5px;  &#xA;    margin-top: 1rem;&#xA;  }&#xA;&#xA;  @media (max-width: 600px) {&#xA;    .image-grid {&#xA;      grid-template-columns: 1fr;  &#xA;    }&#xA;  }&#xA;&#xA;  .image-grid img {&#xA;    width: 100%;&#xA;    height: auto;  &#xA;    object-fit: contain;  &#xA;    border-radius: 4px;  &#xA;    transition: transform 0.2s ease, box-shadow 0.2s ease;&#xA;  }&#xA;&#xA;  .image-grid img:hover {&#xA;    transform: scale(1.02);  &#xA;    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);&#xA;  }&#xA;&#xA;  figure {&#xA;    margin: 0;&#xA;    padding: 0;&#xA;  }&#xA;&lt;/style&gt;&#xA;&#xA;&lt;div class=&#34;image-grid&#34;&gt;&#xA;  &#xA;  &#xA;  &lt;figure&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/images/posts/el-evento-en-el-museo-sebastian-fue-un-exito/1.jpeg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&#xA;      &lt;img src=&#34;http://localhost:1313/images/posts/el-evento-en-el-museo-sebastian-fue-un-exito/1.jpeg&#34; alt=&#34;Gallery Image&#34; /&gt;&#xA;    &lt;/a&gt;&#xA;  &lt;/figure&gt;&#xA;  &#xA;  &lt;figure&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/images/posts/el-evento-en-el-museo-sebastian-fue-un-exito/2.jpeg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&#xA;      &lt;img src=&#34;http://localhost:1313/images/posts/el-evento-en-el-museo-sebastian-fue-un-exito/2.jpeg&#34; alt=&#34;Gallery Image&#34; /&gt;&#xA;    &lt;/a&gt;&#xA;  &lt;/figure&gt;&#xA;  &#xA;  &lt;figure&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/images/posts/el-evento-en-el-museo-sebastian-fue-un-exito/3.jpeg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&#xA;      &lt;img src=&#34;http://localhost:1313/images/posts/el-evento-en-el-museo-sebastian-fue-un-exito/3.jpeg&#34; alt=&#34;Gallery Image&#34; /&gt;&#xA;    &lt;/a&gt;&#xA;  &lt;/figure&gt;&#xA;  &#xA;  &lt;figure&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/images/posts/el-evento-en-el-museo-sebastian-fue-un-exito/4.jpeg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&#xA;      &lt;img src=&#34;http://localhost:1313/images/posts/el-evento-en-el-museo-sebastian-fue-un-exito/4.jpeg&#34; alt=&#34;Gallery Image&#34; /&gt;&#xA;    &lt;/a&gt;&#xA;  &lt;/figure&gt;&#xA;  &#xA;  &lt;figure&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/images/posts/el-evento-en-el-museo-sebastian-fue-un-exito/5.jpeg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&#xA;      &lt;img src=&#34;http://localhost:1313/images/posts/el-evento-en-el-museo-sebastian-fue-un-exito/5.jpeg&#34; alt=&#34;Gallery Image&#34; /&gt;&#xA;    &lt;/a&gt;&#xA;  &lt;/figure&gt;&#xA;  &#xA;  &lt;figure&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/images/posts/el-evento-en-el-museo-sebastian-fue-un-exito/6.jpeg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&#xA;      &lt;img src=&#34;http://localhost:1313/images/posts/el-evento-en-el-museo-sebastian-fue-un-exito/6.jpeg&#34; alt=&#34;Gallery Image&#34; /&gt;&#xA;    &lt;/a&gt;&#xA;  &lt;/figure&gt;&#xA;  &#xA;  &lt;figure&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/images/posts/el-evento-en-el-museo-sebastian-fue-un-exito/7.jpeg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&#xA;      &lt;img src=&#34;http://localhost:1313/images/posts/el-evento-en-el-museo-sebastian-fue-un-exito/7.jpeg&#34; alt=&#34;Gallery Image&#34; /&gt;&#xA;    &lt;/a&gt;&#xA;  &lt;/figure&gt;&#xA;  &#xA;  &lt;figure&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/images/posts/el-evento-en-el-museo-sebastian-fue-un-exito/8.jpeg&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&#xA;      &lt;img src=&#34;http://localhost:1313/images/posts/el-evento-en-el-museo-sebastian-fue-un-exito/8.jpeg&#34; alt=&#34;Gallery Image&#34; /&gt;&#xA;    &lt;/a&gt;&#xA;  &lt;/figure&gt;&#xA;  &#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>¡Acompáñanos en el Museo Sebastián este jueves 19 de septiembre!</title>
-      <link>http://localhost:1313/posts/el-telar-en-el-museo-sebastian/</link>
-      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/el-telar-en-el-museo-sebastian/</guid>
-      <description>&lt;p&gt;Te invitamos a un evento especial en el &lt;a href=&#34;https://maps.app.goo.gl/5xinBMEzBwXgYPRN7&#34;&gt;&lt;strong&gt;Museo Sebastián Casa Siglo XIX&lt;/strong&gt;&lt;/a&gt; donde estaremos compartiendo más sobre nuestro taller y leyendo algunos de nuestros textos.&lt;/p&gt;&#xA;&lt;p&gt;El evento se llevará a cabo el &lt;strong&gt;jueves 19 de septiembre de 2024&lt;/strong&gt;, de &lt;strong&gt;15:00 a 20:00 horas&lt;/strong&gt;. Además, tenemos actividades imperdibles:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A las &lt;strong&gt;16:00 horas&lt;/strong&gt;, &lt;strong&gt;Alejandro Manzano&lt;/strong&gt; presentará su libro &lt;strong&gt;&amp;ldquo;Archivo Transtorno&amp;rdquo;&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;En punto de las &lt;strong&gt;18:00 horas&lt;/strong&gt;, &lt;strong&gt;Alfonso Carrera&lt;/strong&gt; presentará su libro &lt;strong&gt;&amp;ldquo;Recarbonización&amp;rdquo;&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Durante todo el evento, podrás encontrar a &lt;strong&gt;Jonathan Moreno&lt;/strong&gt; en su stand.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Y a las &lt;strong&gt;19:00 horas&lt;/strong&gt;, cerraremos el día con la presentación de nuestro taller y la lectura de nuestros textos.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Alejandro Manzano</title>
-      <link>http://localhost:1313/authors/alejandro-manzano/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/authors/alejandro-manzano/</guid>
-      <description>&lt;p&gt;Alejandro Manzano (1994, Chihuahua) es escritor, crítico, periodista y desarrollador de videojuegos independiente.&lt;/p&gt;&#xA;&lt;p&gt;Su obra cultiva los géneros de cuento, crónica, columna de opinión, reseña, juego de mesa, entre otros. Ha publicado en la revista Minificción, El Heraldo de Chihuahua, Jacobin América Latina y TheJack.mx. Es autor del videojuego The Pitch (PC, 2022) disponible sin costo en la plataforma en línea itch.io.&lt;/p&gt;&#xA;&lt;p&gt;Colaboró con el fotógrafo y cineasta Luis Luján en la postproducción del cortometraje Mi maestro de contar historias (dir. Luis Luján, 2022) y en la escritura de múltiples racionales y textos de sala.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Alfonso Carrera</title>
-      <link>http://localhost:1313/authors/-alfonso-carrera/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/authors/-alfonso-carrera/</guid>
-      <description>&lt;p&gt;Héctor Alfonso Vargas Carrera nació en Estado de México en 2004. A partir de 2011 comenzó sus estudios de violín y en 2012, desarrolló su interés por la escritura.&lt;/p&gt;&#xA;&lt;p&gt;En 2016 se mudó a Chihuahua, Chih., donde ha continuado sus estudios en música y letras. En 2016 ingresó al Taller de narrativa “Ray Bradbury”, impartido por Jorge Guerrero de la Torre, en el cual continúa a la fecha.&lt;/p&gt;&#xA;&lt;p&gt;Desde entonces ha tomado varios cursos impartidos por otros artistas, entre otros, Reneé Acosta, y Alejandro Manzano. En 2019, fue acreedor a la beca FOMAC. En 2021, fue beneficiario de la beca PECDA 2021 Chihuahua en la categoría “Adolescentes Creadores Nuevos Talentos”.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Contacto</title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;p&gt;Actualmente, no contamos con un medio de contacto oficial, pero estamos trabajando arduamente para ofrecerte una forma más directa de comunicarte con nosotros. Mientras tanto, si tienes alguna duda, comentario o necesitas asistencia, te invitamos a acercarte a uno de los &lt;a href=&#34;http://localhost:1313/authors&#34;&gt;miembros del taller&lt;/a&gt;. Ellos estarán encantados de ayudarte en lo que necesites.&lt;/p&gt;&#xA;&lt;p&gt;¡Gracias por tu comprensión y paciencia!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gaspar Jimenez</title>
-      <link>http://localhost:1313/authors/gaspar-jimenez/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/authors/gaspar-jimenez/</guid>
-      <description>&lt;p&gt;Gaspar A. Jiménez Rentería es profesor jubilado del Instituto Tecnológico de Chihuahua. Ha publicado artículos técnicos científicos en revistas arbitradas e indexadas. Participa en el taller como escritor novato. Los temas de interés son los cuentos cortos relacionados con la vida cotidiana del Siglo XX.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Jonathan Moreno</title>
-      <link>http://localhost:1313/authors/jonathan-moreno/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/authors/jonathan-moreno/</guid>
-      <description>&lt;p&gt;Jonathan Moreno Esquivel (Chihuahua, Chih., México, 7 de noviembre de 1995), licenciado en Letras españolas por parte de la Universidad Autónoma de Chihuahua, con Especialidad en Guion cinematográfico por parte de la Facultad de Cine.&lt;/p&gt;&#xA;&lt;p&gt;Autor de la obra teatral &lt;em&gt;Una canción violenta&lt;/em&gt; (Editorial Hibribooks, 2014), reescrita en novela &lt;em&gt;Luces oscuras&lt;/em&gt; (Laripse, 2023). En 2017 fue ganador del premio Publicaciones 2017 en la colección Nakarowari con la novela &lt;em&gt;La calle de los recuerdos&lt;/em&gt;. Obtuvo mención honorífica en el “II Concurso Internacional de Poesía en Rima Jotabé Jotabeando USA” en al año 2019.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Luis Angel Ortega</title>
-      <link>http://localhost:1313/authors/luis-angel-ortega/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/authors/luis-angel-ortega/</guid>
-      <description>&lt;p&gt;Luis Angel Ortega, desarrollador de software de profesión, es un escritor y poeta Méxicano originario de la ciudad de Chihuahua.&lt;/p&gt;&#xA;&lt;p&gt;Ha sido ganador del tercer lugar en la categoría de egresados del 4to Concurso de Cuento Corto de la Red de Bibliotecas Lasallistas con su cuento &lt;em&gt;Titan&lt;/em&gt;, y su poema más popular, &lt;em&gt;Una Cucharadita de Sol&lt;/em&gt;, se puede encontrar traducido a varios idiomas en la antología &amp;ldquo;Quarantine Poetry&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;Además de sus poemas y cuentos escribe en un blog temas técnicos y otros no tan técnicos, así como ha sido colaborador con la página de fomento al software libre &amp;ldquo;Aviyel&amp;rdquo;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Luna Sophia Terra</title>
-      <link>http://localhost:1313/authors/luna-sophia-terra/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/authors/luna-sophia-terra/</guid>
-      <description>&lt;p&gt;Luna Sophia Terra (Chihuahua, 1988) es escritora, artista plástica, tallerista autogestiva y crítica de videojuegos.&lt;/p&gt;&#xA;&lt;p&gt;Realizó estudios en el Centro de Educación Artística “David Alfaro Siqueiros”, la Facultad de Filosofía y Letras de la Universidad Autónoma de Chihuahua y la Escuela de Antropología e Historia del Norte de México.&lt;/p&gt;&#xA;&lt;p&gt;En 2013 y 2014, en colaboración con Mago Noriega, presentó ponencias sobre narrativa y teoría literaria en las tercera y cuarta emisiones del Foro Internacional de Profesionales del Videojuego DEVHR.MX en el Centro Nacional de las Artes de la Ciudad de México y, en 2020 y 2023, organizaron las primera y segunda sedes del Global Game Jam en Chihuahua. Su trabajo ha sido publicado por el proyecto de periodismo independiente español, Terebi Magazine, así como otros medios nacionales e internacionales.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mauricio Padilla</title>
-      <link>http://localhost:1313/authors/mauricio-padilla/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/authors/mauricio-padilla/</guid>
-      <description>&lt;p&gt;Mauricio Padilla Núñez. Nacido el 9 de enero de 1996 en Chihuahua, Chih. Licenciado en filosofía por parte de la UNAM.&lt;/p&gt;&#xA;&lt;p&gt;Ganador de la mención honorífica en la categoría de cuento “Nellie Campobello” dentro de los Premios de Literatura Joven Chihuahua 2021 con la selección de relatos Hasta las últimas consecuencias. Mención honorífica en la categoría de cuento “Nellie Campobello” dentro de los Premios de Literatura Joven Chihuahua 2022 con la selección de relatos Pos así las cosas.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mayi Gonzalez</title>
-      <link>http://localhost:1313/authors/mayi-gonzalez/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/authors/mayi-gonzalez/</guid>
-      <description>&lt;p&gt;Licenciada en educación primaria, con dos textos antologiados en ediciones Momo titulados; “Mi zapatito me habla” y “Sospecho que mi mamá es una bruja”, en el 2023 tome el taller de  creación literaria “tejiendo relatos” con Alejandro Manzano, curse en PECH(programa editorial chihuahua) el curso de cuento y poesía en 2024.&lt;/p&gt;&#xA;&lt;p&gt;En 2024 me publicó la editorial Lebrí el cuento &amp;ldquo;comida  de colores&amp;rdquo; en su antología de cuentos para niños. En mayo del 2024 aparece en la antología, maternidades y lactancia mi  primer poema llamado alimentarte rima con amarte. “Los cuentos infantiles siempre han estado en mi vida, en mi práctica docente, en mi mente, en borradores por aquí y por allá, pero hoy quiero que estén escritos en libros y así lleguen a más niños”.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>El telar</title><link>https://eltelar.xyz/</link><description>Recent content on El telar</description><generator>Hugo</generator><language>es-MX</language><lastBuildDate>Sat, 21 Jun 2025 05:00:00 +0000</lastBuildDate><atom:link href="https://eltelar.xyz/index.xml" rel="self" type="application/rss+xml"/><item><title>¿El fin de la IA?</title><link>https://eltelar.xyz/blog/el-fin-de-la-ia/</link><pubDate>Sat, 21 Jun 2025 05:00:00 +0000</pubDate><guid>https://eltelar.xyz/blog/el-fin-de-la-ia/</guid><description>&lt;p>El 30 de noviembre de 2022, OpenAI lanzó ChatGPT, su infame arma de destrucción cognitiva. Por espacio de tres años, las empresas líderes del sector tecnológico —apoyadas por una sarta de cómplices: medios de comunicación, instituciones educativas, gobiernos, &lt;em>influencers&lt;/em>; ingenuos o dolosos, para fines prácticos, da igual— impusieron la mal llamada “IA” (LLMs y modelos generadores de imágenes, audio y video) en cuanto canal estuvo a su alcance. Entre la promoción constante y la integración forzada a través de apps, sitios web, plataformas, lograron que criticar se sintiera quijotesco: digas lo que digas, argumentes como lo argumentes, “la IA está aquí para quedarse”, “es una herramienta”, “pobre de ti si no tienes la mente abierta a la nueva tecnología.”&lt;/p></description></item><item><title>Tres datos sobre los maras que nos constan hoy</title><link>https://eltelar.xyz/blog/tres-datos-sobre-los-maras-que-nos-constan-hoy/</link><pubDate>Thu, 12 Jun 2025 05:00:00 +0000</pubDate><guid>https://eltelar.xyz/blog/tres-datos-sobre-los-maras-que-nos-constan-hoy/</guid><description>&lt;p>La ONG periodística ProPublica compartió hoy un nuevo artículo &lt;sub>&lt;sup>&lt;a href="https://www.propublica.org/article/bukele-trump-el-salvador-ms13-gang-vulcan-corruption-investigation"
+
+
+
+
+ target="_blank"
+ 
+
+
+>[1]&lt;/a>&lt;/sup>&lt;/sub>, en el que revela cómo los gobiernos de Donald Trump y Nayib Bukele han colaborado a favor de las infames pandillas de la &amp;ldquo;mara salvatrucha&amp;rdquo; (MS-13 y MS-18) durante, al menos, los últimos cuatro años.&lt;/p></description></item><item><title>Luis Ángel Ortega, seleccionado en la octava emisión del FOMAC con su proyecto 'La cueva'</title><link>https://eltelar.xyz/blog/luis-angel-fomac-8/</link><pubDate>Mon, 24 Mar 2025 05:00:00 +0000</pubDate><guid>https://eltelar.xyz/blog/luis-angel-fomac-8/</guid><description>&lt;p>Nos complace compartir una noticia que enorgullece a todo el colectivo. Nuestro estimado miembro, &lt;strong>Luis Ángel Ortega Holguín&lt;/strong>, ha sido seleccionado en la &lt;a href="https://www.municipiochihuahua.gob.mx/CCS/Prensa/Anuncia_Municipio_a_los_seleccionados_de_la_octava_emisi%C3%B3n_del_FOMAC"
+
+
+
+
+ target="_blank"
+ 
+
+
+>octava emisión del Fondo Municipal para Artistas y Creadores (FOMAC)&lt;/a> con su proyecto titulado &amp;ldquo;La cueva&amp;rdquo;.&lt;/p></description></item><item><title>Luna Terra participará en la antología 'Romances de Época 2025' de Editorial Lebri</title><link>https://eltelar.xyz/blog/luna-seleccionada-romances-25/</link><pubDate>Wed, 19 Mar 2025 05:00:00 +0000</pubDate><guid>https://eltelar.xyz/blog/luna-seleccionada-romances-25/</guid><description>&lt;p>Nos complace anunciar que nuestra estimada compañera de, Luna Sophia Terra, ha sido seleccionada para formar parte de la antología &lt;a href="https://lebri.com.mx/site4/index.php/concursos-convocatorias/romances-de-epoca"
+
+
+
+
+ target="_blank"
+ 
+
+
+>&amp;ldquo;Romances de Época 2025&amp;rdquo; de Editorial Lebri&lt;/a>. Esta convocatoria busca reunir relatos originales e inéditos ambientados en épocas pasadas, resaltando la creatividad y talento de escritores contemporáneos&lt;/p></description></item><item><title>¡Prepárate para adentrarte en el Salvaje Oeste de lo sobrenatural!</title><link>https://eltelar.xyz/blog/preparate-para-adentrarte-en-el-salvaje-oeste-de-lo-sobrenatural/</link><pubDate>Mon, 04 Nov 2024 05:00:00 +0000</pubDate><guid>https://eltelar.xyz/blog/preparate-para-adentrarte-en-el-salvaje-oeste-de-lo-sobrenatural/</guid><description>&lt;p>Este jueves 7 de noviembre, dentro del marco de la &lt;a href="https://www.facebook.com/FELICHOficial/"
+
+
+
+
+ target="_blank"
+ 
+
+
+>Feria del Libro de Chihuahua (FELICH) 2024&lt;/a>, te invitamos a la presentación de Luces Oscuras, la nueva novela de western y fantasía oscura de &lt;a href="https://eltelar.xyz/authors/jonathan-moreno"
+
+
+
+ 
+
+
+>Jonathan Moreno Esquivel&lt;/a>. Con una narrativa envolvente y personajes atrapados entre el bien y el mal, esta obra promete llevarte por caminos llenos de misterio y peligro.&lt;/p></description></item><item><title>Abren las preinscripciones para el Taller de Creación Literaria Tejiendo Relatos</title><link>https://eltelar.xyz/blog/abren-las-preinscripciones-para-el-taller-de-creacion-literaria-tejiendo-relatos/</link><pubDate>Mon, 30 Sep 2024 05:00:00 +0000</pubDate><guid>https://eltelar.xyz/blog/abren-las-preinscripciones-para-el-taller-de-creacion-literaria-tejiendo-relatos/</guid><description>&lt;p>El reconocido Taller de Creación Literaria Tejiendo Relatos anuncia la convocatoria para su siguiente edición, que inicia en febrero de 2025.&lt;/p></description></item><item><title>Mayi González es reconocida en Puerto Rico por certamen de cuento infantil</title><link>https://eltelar.xyz/blog/mayi-gonzalez-es-reconocida-en-puerto-rico-por-certamen-de-cuento-infantil/</link><pubDate>Sun, 29 Sep 2024 05:00:00 +0000</pubDate><guid>https://eltelar.xyz/blog/mayi-gonzalez-es-reconocida-en-puerto-rico-por-certamen-de-cuento-infantil/</guid><description>&lt;p>La autora chihuahuense Mayi González, integrante fundadora del taller de creación literaria El Telar desde 2024, obtuvo la Mención Honorífica del jurado del IV Certamen Internacional de Cuentos Infantiles “Cuentos Domingueros”, el cual organizó la casa editorial Con Pluma Papel, con sede en Puerto Rico.&lt;/p></description></item><item><title>¡El evento en el Museo Sebastián fue un éxito!</title><link>https://eltelar.xyz/blog/el-evento-en-el-museo-sebastian-fue-un-exito/</link><pubDate>Fri, 20 Sep 2024 05:00:00 +0000</pubDate><guid>https://eltelar.xyz/blog/el-evento-en-el-museo-sebastian-fue-un-exito/</guid><description>&lt;p>Queremos agradecer a todos los que nos acompañaron el pasado jueves 19 de septiembre en el Museo Sebastián. Fue una tarde increíble llena de literatura, presentaciones y conversaciones inolvidables.&lt;/p></description></item><item><title>¡Acompáñanos en el Museo Sebastián este jueves 19 de septiembre!</title><link>https://eltelar.xyz/blog/el-telar-en-el-museo-sebastian/</link><pubDate>Mon, 16 Sep 2024 05:00:00 +0000</pubDate><guid>https://eltelar.xyz/blog/el-telar-en-el-museo-sebastian/</guid><description>&lt;p>Te invitamos a un evento especial en el &lt;a href="https://maps.app.goo.gl/5xinBMEzBwXgYPRN7"
+
+
+
+
+ target="_blank"
+ 
+
+
+>&lt;strong>Museo Sebastián Casa Siglo XIX&lt;/strong>&lt;/a> donde estaremos compartiendo más sobre nuestro taller y leyendo algunos de nuestros textos.&lt;/p></description></item><item><title>Alejandro Manzano</title><link>https://eltelar.xyz/autores/alejandro-manzano/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://eltelar.xyz/autores/alejandro-manzano/</guid><description/></item><item><title>Alejandro Manzano</title><link>https://eltelar.xyz/autores/alejandro-manzano/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://eltelar.xyz/autores/alejandro-manzano/</guid><description>&lt;p>Alejandro Manzano (1994, Chihuahua) es escritor, crítico, periodista y desarrollador de videojuegos independiente.&lt;/p></description></item><item><title>Alfonso Carrera</title><link>https://eltelar.xyz/autores/alfonso-carrera/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://eltelar.xyz/autores/alfonso-carrera/</guid><description/></item><item><title>Alfonso Carrera</title><link>https://eltelar.xyz/autores/alfonso-carrera/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://eltelar.xyz/autores/alfonso-carrera/</guid><description>&lt;p>Alfonso Vargas Carrera (2004, Estado de México) en 2011 comenzó sus estudios de violín y en 2012, desarrolló su interés por la escritura.&lt;/p></description></item><item><title>Gaspar Jimenez</title><link>https://eltelar.xyz/autores/gaspar-jimenez/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://eltelar.xyz/autores/gaspar-jimenez/</guid><description>&lt;p>Gaspar A. Jiménez Rentería es profesor jubilado del Instituto Tecnológico de Chihuahua. Ha publicado artículos técnicos científicos en revistas arbitradas e indexadas.&lt;/p></description></item><item><title>Gaspar Jiménez</title><link>https://eltelar.xyz/autores/gaspar-jimenez/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://eltelar.xyz/autores/gaspar-jimenez/</guid><description/></item><item><title>Jesús Nevarez</title><link>https://eltelar.xyz/autores/jesus-nevarez/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://eltelar.xyz/autores/jesus-nevarez/</guid><description>&lt;p>Expedita voluptates dignissimos atque voluptas debitis repellat corporis. Fugit earum deserunt repellendus molestias officiis cum qui architecto.&lt;/p></description></item><item><title>Jesús Nevárez</title><link>https://eltelar.xyz/autores/jesus-nevarez/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://eltelar.xyz/autores/jesus-nevarez/</guid><description/></item><item><title>Jonathan Moreno</title><link>https://eltelar.xyz/autores/jonathan-moreno/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://eltelar.xyz/autores/jonathan-moreno/</guid><description>&lt;p>Jonathan Moreno Esquivel (Chihuahua, Chih., México, 7 de noviembre de 1995), licenciado en Letras españolas por parte de la Universidad Autónoma de Chihuahua, con Especialidad en Guion cinematográfico por parte de la Facultad de Cine.&lt;/p></description></item><item><title>Jonathan Moreno</title><link>https://eltelar.xyz/autores/jonathan-moreno/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://eltelar.xyz/autores/jonathan-moreno/</guid><description/></item><item><title>Luis Angel Ortega</title><link>https://eltelar.xyz/autores/luis-angel-ortega/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://eltelar.xyz/autores/luis-angel-ortega/</guid><description>&lt;p>Luis Ángel Ortega Holguín (1998, Chihuahua), desarrollador de software de profesión, es un profesor, escritor y poeta mexicano.&lt;/p></description></item><item><title>Luis Angel Ortega</title><link>https://eltelar.xyz/autores/luis-angel-ortega/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://eltelar.xyz/autores/luis-angel-ortega/</guid><description/></item><item><title>Luna Sophia Terra</title><link>https://eltelar.xyz/autores/luna-sophia-terra/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://eltelar.xyz/autores/luna-sophia-terra/</guid><description>&lt;p>Luna Sophia Terra (Chihuahua, 1988) es escritora, artista plástica, tallerista autogestiva y crítica de videojuegos.&lt;/p></description></item><item><title>Luna Sophia Terra</title><link>https://eltelar.xyz/autores/luna-sophia-terra/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://eltelar.xyz/autores/luna-sophia-terra/</guid><description/></item><item><title>Mauricio Padilla</title><link>https://eltelar.xyz/autores/mauricio-padilla/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://eltelar.xyz/autores/mauricio-padilla/</guid><description>&lt;p>Mauricio Padilla Núñez. Nacido el 9 de enero de 1996 en Chihuahua, Chih. Licenciado en filosofía por parte de la UNAM.&lt;/p></description></item><item><title>Mauricio Padilla</title><link>https://eltelar.xyz/autores/mauricio-padilla/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://eltelar.xyz/autores/mauricio-padilla/</guid><description/></item><item><title>Mayi Gonzalez</title><link>https://eltelar.xyz/autores/mayi-gonzalez/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://eltelar.xyz/autores/mayi-gonzalez/</guid><description>&lt;p>Licenciada en educación primaria, con dos textos antologiados en ediciones Momo titulados; “Mi zapatito me habla” y “Sospecho que mi mamá es una bruja”.&lt;/p></description></item><item><title>Mayi González</title><link>https://eltelar.xyz/autores/mayi-gonzalez/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://eltelar.xyz/autores/mayi-gonzalez/</guid><description/></item></channel></rss>
