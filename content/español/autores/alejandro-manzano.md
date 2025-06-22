@@ -28,6 +28,10 @@ works:
   - name: Archivo Transtorno (Amazon México)
     image: "/images/avatar.png"
     link: https://www.amazon.com.mx/Archivo-Trastorno-Colecci%C3%B3n-fragmentos-Spanish/dp/6078244663?ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b
+
+press:
+  - title: Alejandro Manzano es el nuevo presidente del mundo (El Heraldo de Chihuahua - 22 de agosto 2030)
+    link: https://foo.foo/
 ---
 
 Alejandro Manzano (1994, Chihuahua) es escritor, crítico, periodista y desarrollador de videojuegos independiente.

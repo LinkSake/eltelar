@@ -17,7 +17,7 @@
         />
         {{ end }}
         <h1 class="h3 mt-10">{{ .Title }}</h1>
-        <div class="content text-justify mt-6">{{ .Content }}</div>
+        <div class="content text-justify my-5">{{ .Content }}</div>
         {{ if .Params.works }}
         <div class="items-center text-center">
           <h3>Obras</h3>
@@ -40,6 +40,18 @@
             </div>
             {{ end }}
           </div>
+        </div>
+        <div class="text-center mb-6">
+          <h3 class="mb-3">Prensa</h3>
+          <ul class="text-left">
+          {{ range .Params.press }}
+            <li>
+              <a href="{{ .link }}" target="_blank" class="bold underline">
+                {{ .title }}
+              </a>
+            </li>
+          {{ end }}
+          </ul>
         </div>
         {{ end }} {{ if .Params.social }}
         <div class="text-center">
