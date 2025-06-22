@@ -3,6 +3,7 @@ title: Mauricio Padilla
 email: mauricio.padilla@email.com
 image: "/images/authors/mauricio-padilla.jpg"
 description: Mauricio Padilla Núñez. Nacido el 9 de enero de 1996 en Chihuahua, Chih. Licenciado en filosofía por parte de la UNAM.
+aliases: ["/mauricio-padilla"]
 works:
   - name: Hasta las últimas consecuencias (PECH)
     image: "/images/avatar.png"

@@ -3,6 +3,7 @@ title: Luis Angel Ortega
 email: hey@luisangel.me
 image: "/images/authors/luis-angel-ortega.jpg"
 description: Luis Ángel Ortega Holguín (1998, Chihuahua), desarrollador de software de profesión, es un profesor, escritor y poeta mexicano.
+aliases: ["/luis-angel-ortega", "/luis-ortega"]
 social:
   - name: webpage
     icon: fa-solid fa-globe
