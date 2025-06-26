@@ -191,9 +191,6 @@
   }
 }
 @layer utilities {
-  .\@container {
-    container-type: inline-size;
-  }
   .invisible {
     visibility: hidden;
   }
@@ -416,9 +413,6 @@
   .mb-28 {
     margin-bottom: calc(var(--spacing) * 28);
   }
-  .ml-0 {
-    margin-left: calc(var(--spacing) * 0);
-  }
   .ml-2 {
     margin-left: calc(var(--spacing) * 2);
   }
@@ -521,9 +515,6 @@
   .hidden {
     display: none;
   }
-  .inline {
-    display: inline;
-  }
   .inline-block {
     display: inline-block;
   }
@@ -618,9 +609,6 @@
   }
   .w-full {
     width: 100%;
-  }
-  .max-w-\[600px\] {
-    max-width: 600px;
   }
   .col {
     flex: 1 0 0%;

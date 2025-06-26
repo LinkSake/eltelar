@@ -31,7 +31,7 @@ social:
 
 works:
   - name: Quarantine Poetry - 2020 home made poems (Payhip)
-    image: "/images/avatar.png"
+    image: "/images/works/luis-ortega-quarantine-poetry.jpg"
     link: https://payhip.com/b/aqXmV
 ---
 

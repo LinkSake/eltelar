@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tejiendo Relatos on El telar</title><link>https://eltelar.xyz/tags/tejiendo-relatos/</link><description>Recent content in Tejiendo Relatos on El telar</description><generator>Hugo</generator><language>es-MX</language><lastBuildDate>Mon, 30 Sep 2024 05:00:00 +0000</lastBuildDate><atom:link href="https://eltelar.xyz/tags/tejiendo-relatos/index.xml" rel="self" type="application/rss+xml"/><item><title>Abren las preinscripciones para el Taller de Creación Literaria Tejiendo Relatos</title><link>https://eltelar.xyz/blog/abren-las-preinscripciones-para-el-taller-de-creacion-literaria-tejiendo-relatos/</link><pubDate>Mon, 30 Sep 2024 05:00:00 +0000</pubDate><guid>https://eltelar.xyz/blog/abren-las-preinscripciones-para-el-taller-de-creacion-literaria-tejiendo-relatos/</guid><description>&lt;p>El reconocido Taller de Creación Literaria Tejiendo Relatos anuncia la convocatoria para su siguiente edición, que inicia en febrero de 2025.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tejiendo Relatos on El telar</title>
+    <link>http://localhost:1313/tags/tejiendo-relatos/</link>
+    <description>Recent content in Tejiendo Relatos on El telar</description>
+    <generator>Hugo</generator>
+    <language>es-MX</language>
+    <lastBuildDate>Mon, 30 Sep 2024 05:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tejiendo-relatos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abren las preinscripciones para el Taller de Creación Literaria Tejiendo Relatos</title>
+      <link>http://localhost:1313/blog/abren-las-preinscripciones-para-el-taller-de-creacion-literaria-tejiendo-relatos/</link>
+      <pubDate>Mon, 30 Sep 2024 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/abren-las-preinscripciones-para-el-taller-de-creacion-literaria-tejiendo-relatos/</guid>
+      <description>&lt;p&gt;El reconocido Taller de Creación Literaria Tejiendo Relatos anuncia la convocatoria para su siguiente edición, que inicia en febrero de 2025.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

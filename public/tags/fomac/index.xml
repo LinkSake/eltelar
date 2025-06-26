@@ -1,10 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FOMAC on El telar</title><link>https://eltelar.xyz/tags/fomac/</link><description>Recent content in FOMAC on El telar</description><generator>Hugo</generator><language>es-MX</language><lastBuildDate>Mon, 24 Mar 2025 05:00:00 +0000</lastBuildDate><atom:link href="https://eltelar.xyz/tags/fomac/index.xml" rel="self" type="application/rss+xml"/><item><title>Luis Ángel Ortega, seleccionado en la octava emisión del FOMAC con su proyecto 'La cueva'</title><link>https://eltelar.xyz/blog/luis-angel-fomac-8/</link><pubDate>Mon, 24 Mar 2025 05:00:00 +0000</pubDate><guid>https://eltelar.xyz/blog/luis-angel-fomac-8/</guid><description>&lt;p>Nos complace compartir una noticia que enorgullece a todo el colectivo. Nuestro estimado miembro, &lt;strong>Luis Ángel Ortega Holguín&lt;/strong>, ha sido seleccionado en la &lt;a href="https://www.municipiochihuahua.gob.mx/CCS/Prensa/Anuncia_Municipio_a_los_seleccionados_de_la_octava_emisi%C3%B3n_del_FOMAC"
-
-
-
-
- target="_blank"
- 
-
-
->octava emisión del Fondo Municipal para Artistas y Creadores (FOMAC)&lt;/a> con su proyecto titulado &amp;ldquo;La cueva&amp;rdquo;.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FOMAC on El telar</title>
+    <link>http://localhost:1313/tags/fomac/</link>
+    <description>Recent content in FOMAC on El telar</description>
+    <generator>Hugo</generator>
+    <language>es-MX</language>
+    <lastBuildDate>Mon, 24 Mar 2025 05:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/fomac/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Luis Ángel Ortega, seleccionado en la octava emisión del FOMAC con su proyecto &#39;La cueva&#39;</title>
+      <link>http://localhost:1313/blog/luis-angel-fomac-8/</link>
+      <pubDate>Mon, 24 Mar 2025 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/luis-angel-fomac-8/</guid>
+      <description>&lt;p&gt;Nos complace compartir una noticia que enorgullece a todo el colectivo. Nuestro estimado miembro, &lt;strong&gt;Luis Ángel Ortega Holguín&lt;/strong&gt;, ha sido seleccionado en la &lt;a href=&#34;https://www.municipiochihuahua.gob.mx/CCS/Prensa/Anuncia_Municipio_a_los_seleccionados_de_la_octava_emisi%C3%B3n_del_FOMAC&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;octava emisión del Fondo Municipal para Artistas y Creadores (FOMAC)&lt;/a&gt; con su proyecto titulado &amp;ldquo;La cueva&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
