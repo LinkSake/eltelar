@@ -30,30 +30,27 @@
                 target="_blank"
                 rel="noopener nofollow"
               >
-                <img
-                  class="mx-auto pb-4"
-                  src="{{ .image }}"
-                  alt="{{ .name }}"
-                />
-                {{ .name }}
+                {{ partial "image" (dict "Src" .image "Context" .Page "Alt"
+                .Title "Class" "mx-auto pb-4") }} {{ .name }}
               </a>
             </div>
             {{ end }}
           </div>
         </div>
+        {{ if .Params.press }}
         <div class="text-center mb-6">
           <h3 class="mb-3">Prensa</h3>
           <ul class="text-left">
-          {{ range .Params.press }}
+            {{ range .Params.press }}
             <li>
               <a href="{{ .link }}" target="_blank" class="bold underline">
                 {{ .title }}
               </a>
             </li>
-          {{ end }}
+            {{ end }}
           </ul>
         </div>
-        {{ end }} {{ if .Params.social }}
+        {{ end }} {{ end }} {{ if .Params.social }}
         <div class="text-center">
           <h3>Contacto</h3>
         </div>
