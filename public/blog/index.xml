@@ -1,82 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Publicaciones on El telar</title>
-    <link>http://localhost:1313/blog/</link>
-    <description>Recent content in Publicaciones on El telar</description>
-    <generator>Hugo</generator>
-    <language>es-MX</language>
-    <lastBuildDate>Thu, 26 Jun 2025 05:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>¿Para quién estamos digitalizando la educación? Una llamada urgente a la accesibilidad</title>
-      <link>http://localhost:1313/blog/para-quien-estamos-digitalizando-la-educacion/</link>
-      <pubDate>Thu, 26 Jun 2025 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/para-quien-estamos-digitalizando-la-educacion/</guid>
-      <description>&lt;p&gt;Desde hace más de dos décadas, hablar de transformación digital en la educación se ha vuelto casi obligatorio. Se invierte en plataformas, se promueven nuevas metodologías y se celebran los avances tecnológicos en las aulas. Pero hay una pregunta que rara vez se formula con claridad: &lt;strong&gt;¿para quién estamos digitalizando?&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>¿El fin de la IA?</title>
-      <link>http://localhost:1313/blog/el-fin-de-la-ia/</link>
-      <pubDate>Sat, 21 Jun 2025 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/el-fin-de-la-ia/</guid>
-      <description>&lt;p&gt;El 30 de noviembre de 2022, OpenAI lanzó ChatGPT, su infame arma de destrucción cognitiva. Por espacio de tres años, las empresas líderes del sector tecnológico —apoyadas por una sarta de cómplices: medios de comunicación, instituciones educativas, gobiernos, &lt;em&gt;influencers&lt;/em&gt;; ingenuos o dolosos, para fines prácticos, da igual— impusieron la mal llamada “IA” (LLMs y modelos generadores de imágenes, audio y video) en cuanto canal estuvo a su alcance. Entre la promoción constante y la integración forzada a través de apps, sitios web, plataformas, lograron que criticar se sintiera quijotesco: digas lo que digas, argumentes como lo argumentes, “la IA está aquí para quedarse”, “es una herramienta”, “pobre de ti si no tienes la mente abierta a la nueva tecnología.”&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tres datos sobre los maras que nos constan hoy</title>
-      <link>http://localhost:1313/blog/tres-datos-sobre-los-maras-que-nos-constan-hoy/</link>
-      <pubDate>Thu, 12 Jun 2025 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/tres-datos-sobre-los-maras-que-nos-constan-hoy/</guid>
-      <description>&lt;p&gt;La ONG periodística ProPublica compartió hoy un nuevo artículo &lt;sub&gt;&lt;sup&gt;&lt;a href=&#34;https://www.propublica.org/article/bukele-trump-el-salvador-ms13-gang-vulcan-corruption-investigation&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/sub&gt;, en el que revela cómo los gobiernos de Donald Trump y Nayib Bukele han colaborado a favor de las infames pandillas de la &amp;ldquo;mara salvatrucha&amp;rdquo; (MS-13 y MS-18) durante, al menos, los últimos cuatro años.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Luis Ángel Ortega, seleccionado en la octava emisión del FOMAC con su proyecto &#39;La cueva&#39;</title>
-      <link>http://localhost:1313/blog/luis-angel-fomac-8/</link>
-      <pubDate>Mon, 24 Mar 2025 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/luis-angel-fomac-8/</guid>
-      <description>&lt;p&gt;Nos complace compartir una noticia que enorgullece a todo el colectivo. Nuestro estimado miembro, &lt;strong&gt;Luis Ángel Ortega Holguín&lt;/strong&gt;, ha sido seleccionado en la &lt;a href=&#34;https://www.municipiochihuahua.gob.mx/CCS/Prensa/Anuncia_Municipio_a_los_seleccionados_de_la_octava_emisi%C3%B3n_del_FOMAC&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;octava emisión del Fondo Municipal para Artistas y Creadores (FOMAC)&lt;/a&gt; con su proyecto titulado &amp;ldquo;La cueva&amp;rdquo;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Luna Terra participará en la antología &#39;Romances de Época 2025&#39; de Editorial Lebri</title>
-      <link>http://localhost:1313/blog/luna-seleccionada-romances-25/</link>
-      <pubDate>Wed, 19 Mar 2025 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/luna-seleccionada-romances-25/</guid>
-      <description>&lt;p&gt;Nos complace anunciar que nuestra estimada compañera de, Luna Sophia Terra, ha sido seleccionada para formar parte de la antología &lt;a href=&#34;https://lebri.com.mx/site4/index.php/concursos-convocatorias/romances-de-epoca&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;&amp;ldquo;Romances de Época 2025&amp;rdquo; de Editorial Lebri&lt;/a&gt;. Esta convocatoria busca reunir relatos originales e inéditos ambientados en épocas pasadas, resaltando la creatividad y talento de escritores contemporáneos&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>¡Prepárate para adentrarte en el Salvaje Oeste de lo sobrenatural!</title>
-      <link>http://localhost:1313/blog/preparate-para-adentrarte-en-el-salvaje-oeste-de-lo-sobrenatural/</link>
-      <pubDate>Mon, 04 Nov 2024 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/preparate-para-adentrarte-en-el-salvaje-oeste-de-lo-sobrenatural/</guid>
-      <description>&lt;p&gt;Este jueves 7 de noviembre, dentro del marco de la &lt;a href=&#34;https://www.facebook.com/FELICHOficial/&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;Feria del Libro de Chihuahua (FELICH) 2024&lt;/a&gt;, te invitamos a la presentación de Luces Oscuras, la nueva novela de western y fantasía oscura de &lt;a href=&#34;http://localhost:1313/authors/jonathan-moreno&#34;&#xA;&#xA;&#xA;&#xA; &#xA;&#xA;&#xA;&gt;Jonathan Moreno Esquivel&lt;/a&gt;. Con una narrativa envolvente y personajes atrapados entre el bien y el mal, esta obra promete llevarte por caminos llenos de misterio y peligro.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Abren las preinscripciones para el Taller de Creación Literaria Tejiendo Relatos</title>
-      <link>http://localhost:1313/blog/abren-las-preinscripciones-para-el-taller-de-creacion-literaria-tejiendo-relatos/</link>
-      <pubDate>Mon, 30 Sep 2024 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/abren-las-preinscripciones-para-el-taller-de-creacion-literaria-tejiendo-relatos/</guid>
-      <description>&lt;p&gt;El reconocido Taller de Creación Literaria Tejiendo Relatos anuncia la convocatoria para su siguiente edición, que inicia en febrero de 2025.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mayi González es reconocida en Puerto Rico por certamen de cuento infantil</title>
-      <link>http://localhost:1313/blog/mayi-gonzalez-es-reconocida-en-puerto-rico-por-certamen-de-cuento-infantil/</link>
-      <pubDate>Sun, 29 Sep 2024 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/mayi-gonzalez-es-reconocida-en-puerto-rico-por-certamen-de-cuento-infantil/</guid>
-      <description>&lt;p&gt;La autora chihuahuense Mayi González, integrante fundadora del taller de creación literaria El Telar desde 2024, obtuvo la Mención Honorífica del jurado del IV Certamen Internacional de Cuentos Infantiles “Cuentos Domingueros”, el cual organizó la casa editorial Con Pluma Papel, con sede en Puerto Rico.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>¡El evento en el Museo Sebastián fue un éxito!</title>
-      <link>http://localhost:1313/blog/el-evento-en-el-museo-sebastian-fue-un-exito/</link>
-      <pubDate>Fri, 20 Sep 2024 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/el-evento-en-el-museo-sebastian-fue-un-exito/</guid>
-      <description>&lt;p&gt;Queremos agradecer a todos los que nos acompañaron el pasado jueves 19 de septiembre en el Museo Sebastián. Fue una tarde increíble llena de literatura, presentaciones y conversaciones inolvidables.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>¡Acompáñanos en el Museo Sebastián este jueves 19 de septiembre!</title>
-      <link>http://localhost:1313/blog/el-telar-en-el-museo-sebastian/</link>
-      <pubDate>Mon, 16 Sep 2024 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/el-telar-en-el-museo-sebastian/</guid>
-      <description>&lt;p&gt;Te invitamos a un evento especial en el &lt;a href=&#34;https://maps.app.goo.gl/5xinBMEzBwXgYPRN7&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;&lt;strong&gt;Museo Sebastián Casa Siglo XIX&lt;/strong&gt;&lt;/a&gt; donde estaremos compartiendo más sobre nuestro taller y leyendo algunos de nuestros textos.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publicaciones on El telar</title><link>https://eltelar.xyz/blog/</link><description>Recent content in Publicaciones on El telar</description><generator>Hugo</generator><language>es-MX</language><lastBuildDate>Thu, 26 Jun 2025 05:00:00 +0000</lastBuildDate><atom:link href="https://eltelar.xyz/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>¿Para quién estamos digitalizando la educación? Una llamada urgente a la accesibilidad</title><link>https://eltelar.xyz/blog/para-quien-estamos-digitalizando-la-educacion/</link><pubDate>Thu, 26 Jun 2025 05:00:00 +0000</pubDate><guid>https://eltelar.xyz/blog/para-quien-estamos-digitalizando-la-educacion/</guid><description>&lt;p>Desde hace más de dos décadas, hablar de transformación digital en la educación se ha vuelto casi obligatorio. Se invierte en plataformas, se promueven nuevas metodologías y se celebran los avances tecnológicos en las aulas. Pero hay una pregunta que rara vez se formula con claridad: &lt;strong>¿para quién estamos digitalizando?&lt;/strong>&lt;/p></description></item><item><title>¿El fin de la IA?</title><link>https://eltelar.xyz/blog/el-fin-de-la-ia/</link><pubDate>Sat, 21 Jun 2025 05:00:00 +0000</pubDate><guid>https://eltelar.xyz/blog/el-fin-de-la-ia/</guid><description>&lt;p>El 30 de noviembre de 2022, OpenAI lanzó ChatGPT, su infame arma de destrucción cognitiva. Por espacio de tres años, las empresas líderes del sector tecnológico —apoyadas por una sarta de cómplices: medios de comunicación, instituciones educativas, gobiernos, &lt;em>influencers&lt;/em>; ingenuos o dolosos, para fines prácticos, da igual— impusieron la mal llamada “IA” (LLMs y modelos generadores de imágenes, audio y video) en cuanto canal estuvo a su alcance. Entre la promoción constante y la integración forzada a través de apps, sitios web, plataformas, lograron que criticar se sintiera quijotesco: digas lo que digas, argumentes como lo argumentes, “la IA está aquí para quedarse”, “es una herramienta”, “pobre de ti si no tienes la mente abierta a la nueva tecnología.”&lt;/p></description></item><item><title>Tres datos sobre los maras que nos constan hoy</title><link>https://eltelar.xyz/blog/tres-datos-sobre-los-maras-que-nos-constan-hoy/</link><pubDate>Thu, 12 Jun 2025 05:00:00 +0000</pubDate><guid>https://eltelar.xyz/blog/tres-datos-sobre-los-maras-que-nos-constan-hoy/</guid><description>&lt;p>La ONG periodística ProPublica compartió hoy un nuevo artículo &lt;sub>&lt;sup>&lt;a href="https://www.propublica.org/article/bukele-trump-el-salvador-ms13-gang-vulcan-corruption-investigation"
+
+
+
+
+ target="_blank"
+ 
+
+
+>[1]&lt;/a>&lt;/sup>&lt;/sub>, en el que revela cómo los gobiernos de Donald Trump y Nayib Bukele han colaborado a favor de las infames pandillas de la &amp;ldquo;mara salvatrucha&amp;rdquo; (MS-13 y MS-18) durante, al menos, los últimos cuatro años.&lt;/p></description></item><item><title>Luis Ángel Ortega, seleccionado en la octava emisión del FOMAC con su proyecto 'La cueva'</title><link>https://eltelar.xyz/blog/luis-angel-fomac-8/</link><pubDate>Mon, 24 Mar 2025 05:00:00 +0000</pubDate><guid>https://eltelar.xyz/blog/luis-angel-fomac-8/</guid><description>&lt;p>Nos complace compartir una noticia que enorgullece a todo el colectivo. Nuestro estimado miembro, &lt;strong>Luis Ángel Ortega Holguín&lt;/strong>, ha sido seleccionado en la &lt;a href="https://www.municipiochihuahua.gob.mx/CCS/Prensa/Anuncia_Municipio_a_los_seleccionados_de_la_octava_emisi%C3%B3n_del_FOMAC"
+
+
+
+
+ target="_blank"
+ 
+
+
+>octava emisión del Fondo Municipal para Artistas y Creadores (FOMAC)&lt;/a> con su proyecto titulado &amp;ldquo;La cueva&amp;rdquo;.&lt;/p></description></item><item><title>Luna Terra participará en la antología 'Romances de Época 2025' de Editorial Lebri</title><link>https://eltelar.xyz/blog/luna-seleccionada-romances-25/</link><pubDate>Wed, 19 Mar 2025 05:00:00 +0000</pubDate><guid>https://eltelar.xyz/blog/luna-seleccionada-romances-25/</guid><description>&lt;p>Nos complace anunciar que nuestra estimada compañera de, Luna Sophia Terra, ha sido seleccionada para formar parte de la antología &lt;a href="https://lebri.com.mx/site4/index.php/concursos-convocatorias/romances-de-epoca"
+
+
+
+
+ target="_blank"
+ 
+
+
+>&amp;ldquo;Romances de Época 2025&amp;rdquo; de Editorial Lebri&lt;/a>. Esta convocatoria busca reunir relatos originales e inéditos ambientados en épocas pasadas, resaltando la creatividad y talento de escritores contemporáneos&lt;/p></description></item><item><title>¡Prepárate para adentrarte en el Salvaje Oeste de lo sobrenatural!</title><link>https://eltelar.xyz/blog/preparate-para-adentrarte-en-el-salvaje-oeste-de-lo-sobrenatural/</link><pubDate>Mon, 04 Nov 2024 05:00:00 +0000</pubDate><guid>https://eltelar.xyz/blog/preparate-para-adentrarte-en-el-salvaje-oeste-de-lo-sobrenatural/</guid><description>&lt;p>Este jueves 7 de noviembre, dentro del marco de la &lt;a href="https://www.facebook.com/FELICHOficial/"
+
+
+
+
+ target="_blank"
+ 
+
+
+>Feria del Libro de Chihuahua (FELICH) 2024&lt;/a>, te invitamos a la presentación de Luces Oscuras, la nueva novela de western y fantasía oscura de &lt;a href="https://eltelar.xyz/authors/jonathan-moreno"
+
+
+
+ 
+
+
+>Jonathan Moreno Esquivel&lt;/a>. Con una narrativa envolvente y personajes atrapados entre el bien y el mal, esta obra promete llevarte por caminos llenos de misterio y peligro.&lt;/p></description></item><item><title>Abren las preinscripciones para el Taller de Creación Literaria Tejiendo Relatos</title><link>https://eltelar.xyz/blog/abren-las-preinscripciones-para-el-taller-de-creacion-literaria-tejiendo-relatos/</link><pubDate>Mon, 30 Sep 2024 05:00:00 +0000</pubDate><guid>https://eltelar.xyz/blog/abren-las-preinscripciones-para-el-taller-de-creacion-literaria-tejiendo-relatos/</guid><description>&lt;p>El reconocido Taller de Creación Literaria Tejiendo Relatos anuncia la convocatoria para su siguiente edición, que inicia en febrero de 2025.&lt;/p></description></item><item><title>Mayi González es reconocida en Puerto Rico por certamen de cuento infantil</title><link>https://eltelar.xyz/blog/mayi-gonzalez-es-reconocida-en-puerto-rico-por-certamen-de-cuento-infantil/</link><pubDate>Sun, 29 Sep 2024 05:00:00 +0000</pubDate><guid>https://eltelar.xyz/blog/mayi-gonzalez-es-reconocida-en-puerto-rico-por-certamen-de-cuento-infantil/</guid><description>&lt;p>La autora chihuahuense Mayi González, integrante fundadora del taller de creación literaria El Telar desde 2024, obtuvo la Mención Honorífica del jurado del IV Certamen Internacional de Cuentos Infantiles “Cuentos Domingueros”, el cual organizó la casa editorial Con Pluma Papel, con sede en Puerto Rico.&lt;/p></description></item><item><title>¡El evento en el Museo Sebastián fue un éxito!</title><link>https://eltelar.xyz/blog/el-evento-en-el-museo-sebastian-fue-un-exito/</link><pubDate>Fri, 20 Sep 2024 05:00:00 +0000</pubDate><guid>https://eltelar.xyz/blog/el-evento-en-el-museo-sebastian-fue-un-exito/</guid><description>&lt;p>Queremos agradecer a todos los que nos acompañaron el pasado jueves 19 de septiembre en el Museo Sebastián. Fue una tarde increíble llena de literatura, presentaciones y conversaciones inolvidables.&lt;/p></description></item><item><title>¡Acompáñanos en el Museo Sebastián este jueves 19 de septiembre!</title><link>https://eltelar.xyz/blog/el-telar-en-el-museo-sebastian/</link><pubDate>Mon, 16 Sep 2024 05:00:00 +0000</pubDate><guid>https://eltelar.xyz/blog/el-telar-en-el-museo-sebastian/</guid><description>&lt;p>Te invitamos a un evento especial en el &lt;a href="https://maps.app.goo.gl/5xinBMEzBwXgYPRN7"
+
+
+
+
+ target="_blank"
+ 
+
+
+>&lt;strong>Museo Sebastián Casa Siglo XIX&lt;/strong>&lt;/a> donde estaremos compartiendo más sobre nuestro taller y leyendo algunos de nuestros textos.&lt;/p></description></item></channel></rss>
