@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anuncio on El telar</title>
+    <link>http://localhost:1313/categories/anuncio/</link>
+    <description>Recent content in Anuncio on El telar</description>
+    <generator>Hugo</generator>
+    <language>es-MX</language>
+    <lastBuildDate>Mon, 14 Jul 2025 05:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/anuncio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¡Acompáñanos este viernes 18 de julio en la Mediateca!</title>
+      <link>http://localhost:1313/blog/acompananos-este-viernes-18-de-julio-en-la-mediateca/</link>
+      <pubDate>Mon, 14 Jul 2025 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/acompananos-este-viernes-18-de-julio-en-la-mediateca/</guid>
+      <description>&lt;p&gt;Dos escritores chihuahuenses, miembros de El Telar, presentarán sus proyectos de FOMAC 7 este viernes 18 de julio en la Mediateca Municipal. ¡No te pierdas este maratón literario norteño!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
