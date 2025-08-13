@@ -6,8 +6,15 @@
     <description>Recent content in Categories on El telar</description>
     <generator>Hugo</generator>
     <language>es-MX</language>
-    <lastBuildDate>Mon, 14 Jul 2025 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 05:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Opinion</title>
+      <link>http://localhost:1313/categories/opinion/</link>
+      <pubDate>Wed, 13 Aug 2025 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/opinion/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Anuncio</title>
       <link>http://localhost:1313/categories/anuncio/</link>
@@ -27,13 +34,6 @@
       <link>http://localhost:1313/categories/premios/</link>
       <pubDate>Sat, 28 Jun 2025 05:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/premios/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Opinion</title>
-      <link>http://localhost:1313/categories/opinion/</link>
-      <pubDate>Thu, 26 Jun 2025 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/opinion/</guid>
       <description></description>
     </item>
     <item>
