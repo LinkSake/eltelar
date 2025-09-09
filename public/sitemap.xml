@@ -3,7 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-08-13T05:00:00+00:00</lastmod>
+    <lastmod>2025-09-09T18:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-09-09T18:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/mauricio-padilla-obtiene-el-premio-de-literatura-joven-2025/</loc>
+    <lastmod>2025-09-09T18:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/plagio/</loc>
+    <lastmod>2025-09-09T18:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/premio-de-literatura-joven/</loc>
+    <lastmod>2025-09-09T18:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/premios/</loc>
+    <lastmod>2025-09-09T18:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2025-09-09T18:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-09-09T18:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/vas-a-mentir-sobre-la-ia/</loc>
     <lastmod>2025-08-13T05:00:00+00:00</lastmod>
@@ -11,19 +32,10 @@
     <loc>http://localhost:1313/tags/actualidad/</loc>
     <lastmod>2025-08-13T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-08-13T05:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/inteligencia-artificial/</loc>
     <lastmod>2025-08-13T05:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/opinion/</loc>
-    <lastmod>2025-08-13T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2025-08-13T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-08-13T05:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/acompananos-este-viernes-18-de-julio-en-la-mediateca/</loc>
@@ -51,9 +63,6 @@
     <lastmod>2025-06-28T05:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/pech/</loc>
-    <lastmod>2025-06-28T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/premios/</loc>
     <lastmod>2025-06-28T05:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/para-quien-estamos-digitalizando-la-educacion/</loc>

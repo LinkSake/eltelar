@@ -6,8 +6,22 @@
     <description>Recent content in Tags on El telar</description>
     <generator>Hugo</generator>
     <language>es-MX</language>
-    <lastBuildDate>Wed, 13 Aug 2025 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Sep 2025 18:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Plagio</title>
+      <link>http://localhost:1313/tags/plagio/</link>
+      <pubDate>Tue, 09 Sep 2025 18:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/plagio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Premio De Literatura Joven</title>
+      <link>http://localhost:1313/tags/premio-de-literatura-joven/</link>
+      <pubDate>Tue, 09 Sep 2025 18:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/premio-de-literatura-joven/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Actualidad</title>
       <link>http://localhost:1313/tags/actualidad/</link>
