@@ -38,6 +38,7 @@ Con tres años de experiencia, Tejiendo Relatos cumple su objetivo general: form
 
 Desde la teoría literaria de nivel universitario hasta ejercicios para corregir vicios concretos de ortografía, sintaxis y redacción, los talleristas reciben una formación integral, ya sea que busquen incursionar en la industria editorial, obtener reconocimientos y becas oficiales, o, eventualmente, unirse a los telares.
 
-El cupo es limitado. Preinscripciones por [WhatsApp al 6144279428](https://wa.me/6144279428).
+El cupo es limitado. Preinscripciones por [WhatsApp al 6144279428](https://wa.me/6144279428) o visita [el sitio oficial](https://taller.eltelar.xyz/) para más información.
+
 
 {{< gallery dir="images/blog/tejiendo-relatos-10/" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
