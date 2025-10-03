@@ -3,21 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-09-10T05:00:00+00:00</lastmod>
+    <lastmod>2025-10-03T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/actualidad/</loc>
+    <lastmod>2025-10-03T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-10-03T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/inteligencia-artificial/</loc>
+    <lastmod>2025-10-03T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/falta-alegria-con-la-ia/</loc>
+    <lastmod>2025-10-03T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/opinion/</loc>
+    <lastmod>2025-10-03T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2025-10-03T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-10-03T05:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/tejiendo-relatos-10/</loc>
     <lastmod>2025-09-10T05:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/anuncios/</loc>
-    <lastmod>2025-09-10T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-09-10T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2025-09-10T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-09-10T05:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/talleres/</loc>
@@ -39,15 +51,6 @@
     <lastmod>2025-09-09T18:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/vas-a-mentir-sobre-la-ia/</loc>
-    <lastmod>2025-08-13T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/actualidad/</loc>
-    <lastmod>2025-08-13T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/inteligencia-artificial/</loc>
-    <lastmod>2025-08-13T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/opinion/</loc>
     <lastmod>2025-08-13T05:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/acompananos-este-viernes-18-de-julio-en-la-mediateca/</loc>
