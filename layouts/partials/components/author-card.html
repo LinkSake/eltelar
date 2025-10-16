@@ -1,28 +1,23 @@
-<div class="bg-light dark:bg-darkmode-light rounded p-8 text-center h-[40rem] flex flex-col items-center justify-start sm:p-8 p-4">
-  {{ $image := .Params.image }} 
-  {{ if $image }}
-    {{ partial "image" (dict
-      "Src" $image
-      "Context" .Page
-      "Alt" .Title
-      "Class" "mx-auto mb-6 rounded object-cover w-[400px] h-[400px] sm:w-[400px] sm:h-[400px] w-[180px] h-[180px]"
-      "size" "400x400"
-    ) }}
-  {{ end }}
+<div class="bg-light dark:bg-darkmode-light rounded p-8 text-center h-[38rem] flex flex-col items-center justify-start sm:p-8 p-4 cursor-pointer">
+  <a href="{{ .RelPermalink }}">
 
-  <h4 class="mb-3 text-lg sm:text-2xl">
-    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-  </h4>
-  <p class="mb-4 line-clamp-3 text-base sm:text-lg">{{ .Summary | plainify }}</p>
-
-  <ul class="social-icons mt-auto">
-    {{ range .Params.social }}
-      <li>
-        <a href="{{ .link | safeURL }}" target="_blank" rel="noopener nofollow">
-          <span class="sr-only">{{ .title }}</span>
-          <i class="{{ .icon }}"></i>
-        </a>
-      </li>
+    {{ $image := .Params.image }} 
+    {{ if $image }}
+      {{ partial "image" (dict
+        "Src" $image
+        "Context" .Page
+        "Alt" .Title
+        "Class" "mx-auto mb-6 rounded-2xl object-cover"
+        "size" "500x500"
+      ) }}
     {{ end }}
-  </ul>
+
+    <h4 class="mb-3 text-2xl">
+      {{ .Title }}
+    </h4>
+
+    <p class="line-clamp-2 text-base sm:text-lg">
+      {{ .Summary | plainify }}
+    </p>
+  </a>
 </div>
