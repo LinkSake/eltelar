@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "Taller literario orgullosamente chihuahense"
+  title: "Taller literario orgullosamente chihuahuense"
   content: "Fundado por egresados del programa 'Tejiendo Relatos'. Un espacio de encuentro, escucha y colaboración enfocado en la narrativa escrita, donde distintas voces se acompañan en el arte de contar historias."
   image: "/images/banner.png"
   button:
