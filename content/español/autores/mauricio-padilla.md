@@ -4,11 +4,10 @@ email: mauricio.padilla@email.com
 image: "/images/authors/mauricio-padilla.jpg"
 description: Mauricio Padilla Núñez. Licenciado en filosofía por parte de la UNAM.
 aliases: ["/mauricio-padilla"]
-works:
-  - name: Hasta las últimas consecuencias (PECH)
-    image: "/images/avatar.png"
-    link: https://pech.icm.gob.mx/images/2023/ultimas.pdf
-
+# works:
+  # - name: Hasta las últimas consecuencias (PECH)
+    # image: "/images/avatar.png"
+    # link: https://pech.icm.gob.mx/images/2023/ultimas.pdf
 ---
 
 Mauricio Padilla Núñez. Licenciado en filosofía por parte de la UNAM.

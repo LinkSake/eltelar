@@ -9,10 +9,10 @@ social:
     icon: fa-solid fa-envelope
     link: mailto:hvargascarrera@gmail.com
 
-works:
-  - name: Recarbonización (PECH)
-    image: "/images/avatar.png"
-    link: https://pech.icm.gob.mx/images/2023/recarbonizacion.pdf
+# works:
+  # - name: Recarbonización (PECH)
+    # image: "/images/avatar.png"
+    # link: https://pech.icm.gob.mx/images/2023/recarbonizacion.pdf
 ---
 
 Héctor Alfonso Vargas Carrera (2004, Estado de México). En 2011 comenzó sus estudios de violín y en 2012, desarrolló su interés por la escritura.

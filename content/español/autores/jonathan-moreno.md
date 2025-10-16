@@ -4,19 +4,19 @@ email: jonathan.moreno@gmail.com
 image: "/images/authors/jonathan-moreno.jpg"
 description: Jonathan Moreno Esquivel (Chihuahua, Chih., México, 7 de noviembre de 1995), licenciado en Letras españolas por parte de la Universidad Autónoma de Chihuahua, con Especialidad en Guion cinematográfico por parte de la Facultad de Cine.
 aliases: ["/jonathan-moreno"]
-works:
-  - name: Luces Oscuras (Amazon México)
-    image: "/images/avatar.png"
-    link: https://www.amazon.com.mx/Luces-Oscuras-canci%C3%B3n-larga-Spanish/dp/6078244647?refinements=p_27%3AJonathan%20Moreno%20Esquivel&text=Jonathan%20Moreno%20Esquivel&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b
-  - name: El Último Verano (Amazon México)
-    image: "/images/avatar.png"
-    link: https://www.amazon.com.mx/El-%C3%9Altimo-Verano-Lucas-Esparza-ebook/dp/B0CTHQQ6FW?refinements=p_27%3AJonathan%20Moreno%20Esquivel&text=Jonathan%20Moreno%20Esquivel
-  - name: "Diccionario del amor: Antología de microrrelatos (Amazon México)"
-    image: "/images/avatar.png"
-    link: https://www.amazon.com.mx/Diccionario-del-amor-Antolog%C3%ADa-microrrelatos-ebook/dp/B0CSKCL3YP?refinements=p_27%3AJonathan%20Moreno%20Esquivel&text=Jonathan%20Moreno%20Esquivel
-  - name: Manuscritos de la Sequía Última a la Guerra del Exterminio (Amazon México)
-    image: "/images/avatar.png"
-    link: https://www.amazon.com.mx/Manuscritos-Sequ%C3%ADa-%C3%9Altima-Guerra-Exterminio/dp/B08KH3S64K?refinements=p_27%3AJonathan%20Moreno%20Esquivel&text=Jonathan%20Moreno%20Esquivel&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b
+# works:
+  # - name: Luces Oscuras (Amazon México)
+    # image: "/images/avatar.png"
+    # link: https://www.amazon.com.mx/Luces-Oscuras-canci%C3%B3n-larga-Spanish/dp/6078244647?refinements=p_27%3AJonathan%20Moreno%20Esquivel&text=Jonathan%20Moreno%20Esquivel&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b
+  # - name: El Último Verano (Amazon México)
+    # image: "/images/avatar.png"
+    # link: https://www.amazon.com.mx/El-%C3%9Altimo-Verano-Lucas-Esparza-ebook/dp/B0CTHQQ6FW?refinements=p_27%3AJonathan%20Moreno%20Esquivel&text=Jonathan%20Moreno%20Esquivel
+  # - name: "Diccionario del amor: Antología de microrrelatos (Amazon México)"
+    # image: "/images/avatar.png"
+    # link: https://www.amazon.com.mx/Diccionario-del-amor-Antolog%C3%ADa-microrrelatos-ebook/dp/B0CSKCL3YP?refinements=p_27%3AJonathan%20Moreno%20Esquivel&text=Jonathan%20Moreno%20Esquivel
+  # - name: Manuscritos de la Sequía Última a la Guerra del Exterminio (Amazon México)
+    # image: "/images/avatar.png"
+    # link: https://www.amazon.com.mx/Manuscritos-Sequ%C3%ADa-%C3%9Altima-Guerra-Exterminio/dp/B08KH3S64K?refinements=p_27%3AJonathan%20Moreno%20Esquivel&text=Jonathan%20Moreno%20Esquivel&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b
 ---
 
 Jonathan Moreno Esquivel (Chihuahua, Chih., México, 7 de noviembre de 1995), licenciado en Letras españolas por parte de la Universidad Autónoma de Chihuahua, con Especialidad en Guion cinematográfico por parte de la Facultad de Cine.

@@ -29,10 +29,10 @@ social:
     icon: fa-solid fa-envelope
     link: mailto:c.alejandromanzano@gmail.com
 
-works:
-  - name: Quarantine Poetry - 2020 home made poems (Payhip)
-    image: "/images/works/luis-ortega-quarantine-poetry.jpg"
-    link: https://payhip.com/b/aqXmV
+# works:
+  # - name: Quarantine Poetry - 2020 home made poems (Payhip)
+    # image: "/images/works/luis-ortega-quarantine-poetry.jpg"
+    # link: https://payhip.com/b/aqXmV
 ---
 
 Luis Ángel Ortega Holguín (1998, Chihuahua), desarrollador de software de profesión, es un profesor, escritor y poeta mexicano.
