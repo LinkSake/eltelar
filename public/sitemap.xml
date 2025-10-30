@@ -3,12 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-10-03T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/actualidad/</loc>
-    <lastmod>2025-10-03T05:00:00+00:00</lastmod>
+    <lastmod>2025-10-29T22:23:18-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-10-29T22:23:18-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/evento/</loc>
+    <lastmod>2025-10-29T22:23:18-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/felich/</loc>
+    <lastmod>2025-10-29T22:23:18-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/historias-para-ir-por-cigarros-a-la-gasolinera-en-la-felich-2025/</loc>
+    <lastmod>2025-10-29T22:23:18-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/presentaci%C3%B3n/</loc>
+    <lastmod>2025-10-29T22:23:18-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2025-10-29T22:23:18-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-10-29T22:23:18-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fonca/</loc>
+    <lastmod>2025-10-15T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/mauricio-padilla-fonca-2025/</loc>
+    <lastmod>2025-10-15T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/premios/</loc>
+    <lastmod>2025-10-15T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/actualidad/</loc>
     <lastmod>2025-10-03T05:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/inteligencia-artificial/</loc>
@@ -18,12 +45,6 @@
     <lastmod>2025-10-03T05:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/opinion/</loc>
-    <lastmod>2025-10-03T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2025-10-03T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-10-03T05:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/tejiendo-relatos-10/</loc>
@@ -47,9 +68,6 @@
     <loc>http://localhost:1313/tags/premio-de-literatura-joven/</loc>
     <lastmod>2025-09-09T18:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/premios/</loc>
-    <lastmod>2025-09-09T18:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/vas-a-mentir-sobre-la-ia/</loc>
     <lastmod>2025-08-13T05:00:00+00:00</lastmod>
   </url><url>
@@ -59,13 +77,7 @@
     <loc>http://localhost:1313/categories/anuncio/</loc>
     <lastmod>2025-07-14T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/evento/</loc>
-    <lastmod>2025-07-14T05:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/mediateca/</loc>
-    <lastmod>2025-07-14T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/presentaci%C3%B3n/</loc>
     <lastmod>2025-07-14T05:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/felicidades-a-mauricio-luna-ganadores-del-pech-2025/</loc>
@@ -122,9 +134,6 @@
     <loc>http://localhost:1313/blog/preparate-para-adentrarte-en-el-salvaje-oeste-de-lo-sobrenatural/</loc>
     <lastmod>2024-11-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/felich/</loc>
-    <lastmod>2024-11-04T05:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/libro/</loc>
     <lastmod>2024-11-04T05:00:00+00:00</lastmod>
   </url><url>
@@ -161,6 +170,8 @@
     <loc>http://localhost:1313/autores/</loc>
   </url><url>
     <loc>http://localhost:1313/contacto/</loc>
+  </url><url>
+    <loc>http://localhost:1313/autores/eduardo-tena/</loc>
   </url><url>
     <loc>http://localhost:1313/autores/gaspar-jimenez/</loc>
   </url><url>
