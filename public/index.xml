@@ -6,8 +6,15 @@
     <description>Recent content on El telar</description>
     <generator>Hugo</generator>
     <language>es-MX</language>
-    <lastBuildDate>Wed, 29 Oct 2025 22:23:35 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 06 Dec 2025 05:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intermedio</title>
+      <link>http://localhost:1313/blog/intermedio/</link>
+      <pubDate>Sat, 06 Dec 2025 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/intermedio/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Estamos muy calladas. Ahi le va. Esta la escuchaban mucho mi hijo y mi nuera&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Entrevista de Luna Sophia Terra con Voces de Papel en la FELICH 2025</title>
       <link>http://localhost:1313/blog/luna-entrevista-voces-de-papel-felich-2025/</link>
@@ -167,7 +174,7 @@
       <link>http://localhost:1313/autores/eduardo-tena/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/autores/eduardo-tena/</guid>
-      <description>&lt;p&gt;Licenciado en Letras Españolas por parte de la UACH. Escribe cuento y un haiku ocasional.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Licenciado en Letras Españolas y maestro en Investigación Humanística por parte de la UACH, título obtenido con la tesis &lt;em&gt;El Lector Modelo de ChatGPT: la cooperación interpretativa en las creaciones literarias de las inteligencias artificiales generativas.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gaspar Jimenez</title>
