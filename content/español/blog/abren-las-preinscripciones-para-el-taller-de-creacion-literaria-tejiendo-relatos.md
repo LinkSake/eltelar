@@ -26,7 +26,7 @@ El cupo es limitado. Preinscripciones por WhatsApp al [6144279428](https://wa.me
 
 ## Fuentes
 
-- [Almeida, E. (2024). Soy Chihuahua. *Chihuahua Celebra el Talento Artístico con la 7ª Edición de FOMAC.*](https://soychihuahua.mx/nota/chihuahua_celebra_el_talento_artistico_con_la_7_edicion_de_fomac_584)
+- Almeida, E. (2024). Soy Chihuahua. *Chihuahua Celebra el Talento Artístico con la 7ª Edición de FOMAC.*
 
 - [Ochoa, R. (2022). El Heraldo de Chihuahua. *Conoce a los ganadores del Programa Editorial Chihuahua 2022.*](https://www.elheraldodechihuahua.com.mx/cultura/conoce-a-los-ganadores-del-programa-editorial-chihuahua-2022-8404696.html)
 

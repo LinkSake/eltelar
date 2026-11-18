@@ -10,6 +10,6 @@ tags: ["cuentos", "época", "romance", "antologias"]
 draft: false
 ---
 
-Nos complace anunciar que nuestra estimada compañera de, Luna Sophia Terra, ha sido seleccionada para formar parte de la antología ["Romances de Época 2025" de Editorial Lebri](https://lebri.com.mx/site4/index.php/concursos-convocatorias/romances-de-epoca). Esta convocatoria busca reunir relatos originales e inéditos ambientados en épocas pasadas, resaltando la creatividad y talento de escritores contemporáneos
+Nos complace anunciar que nuestra estimada compañera de, Luna Sophia Terra, ha sido seleccionada para formar parte de la antología ["Romances de Época 2025" de Editorial Lebri](https://web.archive.org/web/20260218022332/https://lebri.com.mx/site4/index.php/concursos-convocatorias/romances-de-epoca). Esta convocatoria busca reunir relatos originales e inéditos ambientados en épocas pasadas, resaltando la creatividad y talento de escritores contemporáneos
 
 Felicitamos sinceramente a Luna Sophia por este reconocimiento y esperamos con entusiasmo la publicación de "Romances de Época 2025", convencidos de que su contribución será una pieza destacada en esta colección.

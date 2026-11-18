@@ -69,7 +69,7 @@ Y, si esto no ocurre, entonces, como dicen los funcionarios al juramentar el car
 - https://www.jornada.com.mx/noticia/2026/07/24/sociedad/difunden-jovenes-guias-en-tiktok-para-hacer-trampa-en-el-examen-de-la-unam
 - https://www.jornada.com.mx/noticia/2026/07/28/sociedad/empresa-del-software-del-examen-de-admision-de-la-unam-pide-comparecer-ante-comision-revisora
 - https://www.elfinanciero.com.mx/nacional/2026/07/21/resultados-del-examen-de-la-unam-rector-pide-informe-especial-sobre-resultados/
-- https://es.wikipedia.org/wiki/Anexo:Universidades_más_grandes_del_mundo_por_número_de_alumnos
+- [Anexo: Universidades más grandes del mundo por número de alumnos (Wikipedia)](https://es.wikipedia.org/wiki/Anexo:Universidades_m%C3%A1s_grandes_del_mundo_por_n%C3%BAmero_de_alumnos)
 - https://www.jornada.com.mx/noticia/2026/04/30/sociedad/unam-no-descarta-cierre-de-las-15-carreras-con-menor-demanda
 - https://archive.ph/TbzJM
 
