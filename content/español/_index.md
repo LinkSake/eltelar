@@ -21,8 +21,10 @@ features:
     image: "/images/service-2.png"
     content: "El telar reúne tanto a autores en formación como a figuras reconocidas dentro del ámbito literario chihuahuense. Esta mezcla de trayectorias permite un diálogo creativo que enriquece el trabajo de todos los participantes."
     bulletpoints:
-      - "**Alejandro Manzano**, autor de *Archivo Transtorno* y creador del videojuego *The Pitch*."
+      - "**Alejandro Manzano**, autor de *Archivo Trastorno* y creador del videojuego *The Pitch*."
       - "**Alfonso Carrera**, autor de *Recarbonización* y becario PECDA y FOMAC."
-      - "**Jonathan Moreno**, autor de *Luces oscuras* y *La calle de los recuerdos*, editor y guionista."
-      - "**Mauricio Padilla**, autor de *Hasta las últimas consecuencias* y narrador premiado en los Premios de Literatura Joven Chihuahua."
+      - "**Jesús Nevárez**, autor de *Apócrifos del Altar*."
+      - "**Luis Ángel Ortega**, ganador del Premio Estatal de Literatura Joven 2026 y becario FOMAC."
+      - "**Luna Sophia Terra**, autora de *Entre dos tierras* (PECH 2025) y becaria FOMAC."
+      - "**Mauricio Padilla**, autor de *Historias para ir por cigarros a la gasolinera*, ganador del Premio de Literatura Joven Chihuahua 2025 y becario FONCA."
 ---
