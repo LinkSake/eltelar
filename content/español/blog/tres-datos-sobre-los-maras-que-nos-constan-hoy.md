@@ -1,6 +1,6 @@
 ---
 title: "Tres datos sobre los maras que nos constan hoy"
-meta_title: "La ONG periodística ProPublica compartió hoy un nuevo artículo, en el que revela cómo los gobiernos de Donald Trump y Nayib Bukele han colaborado a favor de las infames pandillas de la mara salvatrucha (MS-13 y MS-18) durante, al menos, los últimos cuatro años."
+meta_title: "Tres datos sobre los maras que nos constan hoy"
 description: "La ONG periodística ProPublica compartió hoy un nuevo artículo, en el que revela cómo los gobiernos de Donald Trump y Nayib Bukele han colaborado a favor de las infames pandillas de la mara salvatrucha (MS-13 y MS-18) durante, al menos, los últimos cuatro años."
 date: 2025-06-12T05:00:00Z
 image: "/images/blog/tres-datos-sobre-los-maras-que-nos-constan-hoy.jpg"
