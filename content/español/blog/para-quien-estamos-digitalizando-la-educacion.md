@@ -36,6 +36,6 @@ En un país con tanta diversidad social y tecnológica, no basta con ofrecer acc
 
 - Speedtest by Ookla. (2024). *Speedtest Global Index – Mexico*. https://www.speedtest.net/global-index/mexico
 
-- The Competitive Intelligence Unit. (2024). *Mercado de smartphones en México, 1T-2024*. https://www.theciu.com/publicaciones-analisis/2024/03/smartphones-en-mexico-1T-2024
+- The Competitive Intelligence Unit. (2024). *Mercado de smartphones en México, 1T-2024*.
 
 - Foto de portada diseñada por [Freepik](https://www.freepik.com/).

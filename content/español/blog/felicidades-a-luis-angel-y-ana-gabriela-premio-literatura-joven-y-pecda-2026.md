@@ -23,4 +23,3 @@ Desde El Telar celebramos con enorme orgullo estos logros, que reflejan el compr
 - [Ganadores de los Premios Estatales de Literatura Joven 2026 en Chihuahua (NTCD)](https://ntcd.mx/noticias-ganadores-de-los-premios-estatales-de-literatura-joven-2026-en-chihuahua)
 - [Anuncio de la Secretaría de Cultura de Chihuahua (Facebook)](https://www.facebook.com/100066715643820/posts/1375480828019092/)
 - [Lista de ganadores de los Premios Estatales de Literatura Joven 2026 (Tiempo)](https://www.tiempo.com.mx/local/chihuahua-lista-ganadores-premios-estatales-literatura-joven-2026/)
-- [Resultados del PECDA Chihuahua 2026 (Secretaría de Cultura, PDF)](https://convocatorias.cultura.gob.mx/public/assets/uploads/recursos/convocatorias/resul_PECDA_CHIH_2026_2.pdf)
