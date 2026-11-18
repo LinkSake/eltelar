@@ -4,7 +4,7 @@ meta_title: "Notas para una defensa de los talleres literarios"
 description: "Notas de El Telar en defensa de los talleres literarios, a propósito de una polémica publicación en Facebook sobre los talleres de creación literaria en Chihuahua."
 date: 2026-06-04T11:31:00Z
 image: ""
-categories: []
+categories: ["Opinion"]
 author: "El Telar"
 tags: []
 draft: false
