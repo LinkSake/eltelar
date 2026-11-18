@@ -5,7 +5,7 @@ description: "El Telar felicita a Luis Ángel Ortega, ganador del Premio Estatal
 date: 2026-08-12T05:00:00Z
 image: "/images/blog/felicidades-a-luis-angel-y-ana-gabriela-premio-literatura-joven-y-pecda-2026.jpg"
 categories: ["Premios"]
-author: "El telar"
+author: "El Telar"
 tags: ["Premio Estatal de Literatura Joven", "PECDA", "El oficio de las cosas", "Ke-Late", "Cuento"]
 draft: false
 ---

@@ -5,7 +5,7 @@ description: "Te invitamos a un evento especial en el Museo Sebastián Casa Sigl
 date: 2024-09-16T05:00:00Z
 image: "/images/blog/el-telar-en-el-museo-sebastian.jpeg"
 categories: ["Anuncios", "Eventos"]
-author: "El telar"
+author: "El Telar"
 tags: ["presentación", "Museo Sebastián Casa Siglo XIX"]
 draft: false
 ---

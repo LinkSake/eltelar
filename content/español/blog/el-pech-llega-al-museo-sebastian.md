@@ -5,7 +5,7 @@ description: "El pasado 5 de octubre se inauguró en el Museo Sebastián un nuev
 date: 2026-10-08T05:00:00Z
 image: "/images/blog/el-pech-llega-al-museo-sebastian/1.jpeg"
 categories: ["Eventos"]
-author: "El telar"
+author: "El Telar"
 tags: ["PECH", "Museo Sebastián Casa Siglo XIX", "Entre dos tierras", "Historias para ir por cigarros"]
 draft: false
 ---
