@@ -3,7 +3,9 @@
 
 > {{ site.Params.metadata.description }}
 
-{{ $org.name }} es un taller literario (taller de creación literaria) en {{ $org.locality }}, {{ $org.region }}, México. Sesiona cada semana en el {{ $org.venue }}. Se fundó en {{ $org.founding_date }} y sus integrantes son egresados del Taller de Creación Literaria "Tejiendo Relatos", dirigido por el escritor Alejandro Manzano. Correo de contacto: {{ $org.email }}.
+{{ $org.name }} es un taller literario (taller de creación literaria) en {{ $org.locality }}, {{ $org.region }}, México. Sesiona cada semana. Se fundó en {{ $org.founding_date }} y sus integrantes son egresados del Taller de Creación Literaria "Tejiendo Relatos", dirigido por el escritor Alejandro Manzano. Correo de contacto: {{ $org.email }}.
+
+Redes sociales: {{ $org.name }} solo tiene cuenta en Instagram, [@eltelar.xyz]({{ $org.instagram }}). No tiene cuenta en Twitter/X.
 
 ## Páginas
 

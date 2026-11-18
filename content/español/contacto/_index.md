@@ -9,4 +9,6 @@ draft: false
 
 Puedes escribirnos directamente a cualquiera de [las personas](/autores) que forman parte del taller, enviar un correo a [**contacto@eltelar.xyz**](mailto:contacto@eltelar.xyz). 
 
+También puedes seguirnos y escribirnos en Instagram: [**@eltelar.xyz**](https://www.instagram.com/eltelar.xyz/). Es nuestra única red social.
+
 Estaremos felices de leerte.

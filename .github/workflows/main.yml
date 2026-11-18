@@ -47,6 +47,11 @@ jobs:
           submodules: recursive
           fetch-depth: 0
 
+      - name: Configure git for non-ASCII paths
+        # The content lives in content/español; without this git escapes the path
+        # and Hugo's enableGitInfo can't find lastmod dates for any page.
+        run: git config core.quotepath false
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
@@ -59,6 +64,17 @@ jobs:
 
       - name: Build site
         run: npm run build
+
+      - name: List new or changed URLs for IndexNow
+        # Compares the live sitemap (still the previous deploy) with the new build.
+        run: python3 scripts/indexnow.py diff --live https://eltelar.xyz --public public --out indexnow-urls.txt
+
+      - name: Save IndexNow URL list
+        uses: actions/upload-artifact@v4
+        with:
+          name: indexnow-urls
+          path: indexnow-urls.txt
+          retention-days: 1
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3.0.1
@@ -76,3 +92,22 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4.0.5
+
+  # Tell IndexNow (Bing, which also feeds ChatGPT/Copilot search, Yandex, ...) about
+  # new or changed pages, only after the deploy succeeded.
+  indexnow:
+    runs-on: ubuntu-24.04-arm
+    needs: deploy
+    env:
+      INDEXNOW_KEY: 06106753230c7524a0c88effc837416e # public by design; also served at /<key>.txt
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4.2.2
+
+      - name: Get IndexNow URL list
+        uses: actions/download-artifact@v4
+        with:
+          name: indexnow-urls
+
+      - name: Submit to IndexNow
+        run: python3 scripts/indexnow.py submit --urls indexnow-urls.txt --host eltelar.xyz --key "$INDEXNOW_KEY"

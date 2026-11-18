@@ -32,10 +32,10 @@
   "email" $org.email
   "foundingDate" $org.founding_date
   "address" $address
-  "location" (dict "@type" "Place" "name" $org.venue "url" $org.venue_url "address" $address)
   "areaServed" (dict "@type" "City" "name" $org.locality)
   "knowsAbout" $org.knows_about
   "member" $members
+  "sameAs" (slice $org.instagram)
 -}}
 {{- with resources.Get site.Params.logo -}}
   {{- $organization = merge $organization (dict "logo" (dict "@type" "ImageObject" "url" .Permalink "width" .Width "height" .Height)) -}}

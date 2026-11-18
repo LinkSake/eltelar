@@ -65,7 +65,6 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 keywords = ["Taller literario", "Taller literario Chihuahua", "Taller de creación literaria", "Taller de escritura", "Escritores de Chihuahua", "Literatura", "Chihuahua"]
 description = "Taller literario semanal en Chihuahua, fundado por egresados del programa 'Tejiendo Relatos'. Un espacio de encuentro, escucha y colaboración enfocado en la narrativa escrita, donde distintas voces se acompañan en el arte de contar historias."
 author = "El telar"
-twitter = "eltelar"
 image = "images/banner.png"
 
 
@@ -74,9 +73,8 @@ image = "images/banner.png"
 name = "El Telar"
 alternate_names = ["El telar", "Taller literario El Telar"]
 email = "contacto@eltelar.xyz"
+instagram = "https://www.instagram.com/eltelar.xyz/"
 founding_date = "2024"
-venue = "LivingLab, Parque Industrial Las Américas"
-venue_url = "https://livinglab.io/home"
 locality = "Chihuahua"
 region = "Chihuahua"
 country = "MX"
