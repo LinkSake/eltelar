@@ -13,10 +13,6 @@ social:
     icon: fa-brands fa-square-bluesky
     link: https://bsky.app/profile/luisangel.me
 
-  - name: mastodon
-    icon: fa-brands fa-mastodon
-    link: https://vmst.io/@link
-
   - name: instagram
     icon: fa-brands fa-instagram
     link: https://instagram.com/linksake
