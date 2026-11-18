@@ -1,7 +1,7 @@
 ---
 title: "Contacto"
-meta_title: "Contacto"
-description: "Estamos a un email de distancia"
+meta_title: "Contacto: escríbele al taller literario"
+description: "Escríbele a El Telar, taller literario en Chihuahua, a contacto@eltelar.xyz o a cualquiera de sus autores. Estamos a un email de distancia."
 draft: false
 ---
 

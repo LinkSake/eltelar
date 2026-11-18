@@ -1,8 +1,9 @@
 ---
 title: "Sobre nosotros"
-meta_title: "Sobre nosotros"
+meta_title: "Sobre nosotros: taller de creación literaria en Chihuahua"
 description: "El Telar es un taller de creación literaria que sesiona cada semana en el LivingLab, dentro del Parque Industrial Las Américas, en Chihuahua, Chihuahua."
 image: "/images/logo.jpg"
+meta_image: "/images/banner.png"
 draft: false
 ---
 

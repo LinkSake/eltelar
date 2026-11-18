@@ -3,6 +3,8 @@ title = "El telar"
 theme = "hugoplate"
 timeZone = "America/Chihuahua"
 summaryLength = 10
+enableRobotsTXT = true
+enableGitInfo = true
 disableLanguages = []
 hasCJKLanguage = false
 defaultContentLanguage = 'es'
@@ -36,7 +38,7 @@ source = 'hugo_stats.json'
 target = 'assets/notwatching/hugo_stats.json'
 
 [outputs]
-home = ["HTML", "RSS", "WebAppManifest", "SearchIndex"]
+home = ["HTML", "RSS", "WebAppManifest", "SearchIndex", "LLMS"]
 
 [imaging]
 quality = 80
@@ -72,6 +74,12 @@ suffixes = ["webmanifest"]
 [outputFormats.WebAppManifest]
 mediaType = "application/manifest+json"
 rel = "manifest"
+
+[outputFormats.LLMS]
+mediaType = "text/plain"
+baseName = "llms"
+isPlainText = true
+notAlternative = true
 
 [outputFormats.SearchIndex]
 mediaType = "application/json"

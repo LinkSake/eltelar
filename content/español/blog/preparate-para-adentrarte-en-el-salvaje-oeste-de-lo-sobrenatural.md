@@ -10,9 +10,9 @@ tags: ["presentación", "libro", "FELICH"]
 draft: false
 ---
 
-Este jueves 7 de noviembre, dentro del marco de la [Feria del Libro de Chihuahua (FELICH) 2024](https://www.facebook.com/FELICHOficial/), te invitamos a la presentación de Luces Oscuras, la nueva novela de western y fantasía oscura de [Jonathan Moreno Esquivel](/authors/jonathan-moreno). Con una narrativa envolvente y personajes atrapados entre el bien y el mal, esta obra promete llevarte por caminos llenos de misterio y peligro.
+Este jueves 7 de noviembre, dentro del marco de la [Feria del Libro de Chihuahua (FELICH) 2024](https://www.facebook.com/FELICHOficial/), te invitamos a la presentación de Luces Oscuras, la nueva novela de western y fantasía oscura de [Jonathan Moreno Esquivel](/autores/jonathan-moreno/). Con una narrativa envolvente y personajes atrapados entre el bien y el mal, esta obra promete llevarte por caminos llenos de misterio y peligro.
 
-La presentación estará a cargo de [Alejandro Manzano](/authors/alejandro-manzano), escritor chihuahuense reconocido por sus obras de ciencia ficción, quien compartirá sus impresiones sobre este relato intrigante. 📖✨
+La presentación estará a cargo de [Alejandro Manzano](/autores/alejandro-manzano/), escritor chihuahuense reconocido por sus obras de ciencia ficción, quien compartirá sus impresiones sobre este relato intrigante. 📖✨
 
 - 📅 Fecha: Jueves 7 de noviembre
 - 🕕 Hora: 6:40 p.m.

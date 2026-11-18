@@ -1,0 +1,29 @@
+{{- /* Resolves the page's social/structured-data image.
+  Returns a dict with url, and width/height/type when the image is a Hugo resource. */ -}}
+{{- $imagePath := site.Params.metadata.image -}}
+{{- if .Params.meta_image -}}
+  {{- $imagePath = .Params.meta_image -}}
+{{- else if .Params.images -}}
+  {{- $imagePath = index .Params.images 0 -}}
+{{- else if .Params.image -}}
+  {{- $imagePath = .Params.image -}}
+{{- end -}}
+{{- $imagePath = string $imagePath -}}
+
+{{- $result := dict -}}
+{{- if or (hasPrefix $imagePath "http") (fileExists (add `static/` $imagePath)) -}}
+  {{- $result = dict "url" ($imagePath | absURL) -}}
+{{- else -}}
+  {{- $image := .Resources.GetMatch (printf "*%s*" $imagePath) -}}
+  {{- if and (not $image) (fileExists (add `assets/` $imagePath)) -}}
+    {{- $image = resources.Get $imagePath -}}
+  {{- end -}}
+  {{- with $image -}}
+    {{- $ext := strings.TrimPrefix "." (path.Ext .Name) -}}
+    {{- $result = dict "url" .Permalink "type" (cond (eq $ext "svg") "svg+xml" (replaceRE `^jpg$` `jpeg` $ext)) -}}
+    {{- if ne $ext "svg" -}}
+      {{- $result = merge $result (dict "width" .Width "height" .Height) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $result -}}

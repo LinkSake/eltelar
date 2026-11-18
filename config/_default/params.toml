@@ -11,7 +11,7 @@ logo_height = "32px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "Hugoplate"
+logo_text = "El Telar"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
@@ -62,11 +62,25 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Taller", "Taller literario", "Literatura", "Chihuahua"]
-description = "Taller literario semanal fundado por egresados del programa 'Tejiendo Relatos'. Un espacio de encuentro, escucha y colaboración enfocado en la narrativa escrita, donde distintas voces se acompañan en el arte de contar historias."
+keywords = ["Taller literario", "Taller literario Chihuahua", "Taller de creación literaria", "Taller de escritura", "Escritores de Chihuahua", "Literatura", "Chihuahua"]
+description = "Taller literario semanal en Chihuahua, fundado por egresados del programa 'Tejiendo Relatos'. Un espacio de encuentro, escucha y colaboración enfocado en la narrativa escrita, donde distintas voces se acompañan en el arte de contar historias."
 author = "El telar"
 twitter = "eltelar"
-image = "images/og-image.png"
+image = "images/banner.png"
+
+
+# organization data for structured data (JSON-LD) and llms.txt
+[organization]
+name = "El Telar"
+alternate_names = ["El telar", "Taller literario El Telar"]
+email = "contacto@eltelar.xyz"
+founding_date = "2024"
+venue = "LivingLab, Parque Industrial Las Américas"
+venue_url = "https://livinglab.io/home"
+locality = "Chihuahua"
+region = "Chihuahua"
+country = "MX"
+knows_about = ["Taller literario", "Creación literaria", "Escritura creativa", "Narrativa", "Cuento", "Literatura de Chihuahua"]
 
 
 # site verifications

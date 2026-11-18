@@ -1,0 +1,32 @@
+{{- $org := site.Params.organization -}}
+# {{ $org.name }}
+
+> {{ site.Params.metadata.description }}
+
+{{ $org.name }} es un taller literario (taller de creación literaria) en {{ $org.locality }}, {{ $org.region }}, México. Sesiona cada semana en el {{ $org.venue }}. Se fundó en {{ $org.founding_date }} y sus integrantes son egresados del Taller de Creación Literaria "Tejiendo Relatos", dirigido por el escritor Alejandro Manzano. Correo de contacto: {{ $org.email }}.
+
+## Páginas
+
+- [Inicio]({{ site.Home.Permalink }}): qué es {{ $org.name }} y quiénes lo integran.
+{{- with site.GetPage "/nosotros" }}
+- [{{ .Title }}]({{ .Permalink }}): {{ .Description }}
+{{- end }}
+{{- with site.GetPage "/autores" }}
+- [{{ .Title }}]({{ .Permalink }}): escritoras y escritores que forman parte del taller.
+{{- end }}
+{{- with site.GetPage "/blog" }}
+- [Blog]({{ .Permalink }}): {{ .Description }}
+{{- end }}
+{{- with site.GetPage "/contacto" }}
+- [{{ .Title }}]({{ .Permalink }}): cómo escribirle al taller.
+{{- end }}
+
+## Autores
+{{ range (site.GetPage "/autores").RegularPages.ByTitle }}
+- [{{ .Title }}]({{ .Permalink }}){{ with .Description }}: {{ . | plainify }}{{ end }}
+{{- end }}
+
+## Publicaciones
+{{ range (where site.RegularPages "Section" "blog").ByDate.Reverse }}
+- [{{ .Title | plainify }}]({{ .Permalink }}) ({{ .Date.Format "2006-01-02" }}, {{ .Params.author }}){{ with .Description }}: {{ . | plainify }}{{ end }}
+{{- end }}

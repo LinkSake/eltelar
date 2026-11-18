@@ -1,0 +1,9 @@
+{{/* Post author, linked to their author page when one exists. */}}
+{{ $author := .Params.author }}
+{{ with site.GetPage (printf "/autores/%s" (urlize $author)) }}
+  <a href="{{ .RelPermalink }}">
+    <i class="fa-regular fa-circle-user mr-2"></i>{{ $author }}
+  </a>
+{{ else }}
+  <i class="fa-regular fa-circle-user mr-2"></i>{{ $author }}
+{{ end }}
