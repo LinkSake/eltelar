@@ -2,13 +2,7 @@
 <div class="bg-body dark:bg-darkmode-body">
   {{ $image := .Params.image }}
   {{ if $image }}
-    <img
-      src="{{ $image | relURL }}"
-      alt="{{ .Title }}"
-      width="1096"
-      height="480"
-      class="mb-6 w-[1096px] max-h-[180px] rounded object-cover mx-auto"
-    />
+    {{ partial "image" (dict "Src" $image "Context" . "Alt" .Title "Size" "720x360" "Command" "Fill" "Class" "mb-6 w-full max-h-[180px] rounded object-cover mx-auto") }}
   {{ end }}
 
   <h4 class="mb-3">
