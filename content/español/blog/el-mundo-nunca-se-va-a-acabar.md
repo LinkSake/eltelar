@@ -10,8 +10,6 @@ tags: ["ensayo", "cambio climático", "pandemia", "El amanecer de todo"]
 draft: false
 ---
 
-![Victoria sobre la eternidad, de Pável Filónov](/images/blog/el-mundo-nunca-se-va-a-acabar.jpg)
-
 *Pável Filónov, Victoria sobre la eternidad (1921).*
 
 ## 1.
