@@ -1,4 +1,6 @@
 ---
+meta_title: "El Telar | Taller literario en Chihuahua"
+
 # Banner
 banner:
   title: "Taller literario orgullosamente chihuahuense"

@@ -11,11 +11,7 @@
         <h1 class="h2 mb-4">{{ .Title }}</h1>
         <ul class="mb-4">
           <li class="mr-4 inline-block">
-            <a
-              href="{{ `autores/` | relLangURL }}{{ .Params.Author | urlize }}/"
-            >
-              <i class="fa-regular fa-circle-user mr-2"></i>{{ .Params.author }}
-            </a>
+            {{ partial "components/author-link" . }}
           </li>
           {{ $categories:= .Params.categories }} {{ if $categories }}
           <li class="mr-4 inline-block">

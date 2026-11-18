@@ -1,0 +1,15 @@
+{{- /* Returns the page's meta description as plain text. */ -}}
+{{- $org := site.Params.organization -}}
+{{- $description := site.Params.metadata.description -}}
+{{- if .Params.meta_description -}}
+  {{- $description = .Params.meta_description -}}
+{{- else if .Params.description -}}
+  {{- $description = .Params.description -}}
+{{- else if eq .Kind "term" -}}
+  {{- $description = printf "Publicaciones sobre %s en %s, taller literario en %s." .Title $org.name $org.locality -}}
+{{- else if eq .Kind "taxonomy" -}}
+  {{- $description = printf "%s de las publicaciones de %s, taller literario en %s." (T .Data.Plural | default .Title) $org.name $org.locality -}}
+{{- else if and .IsPage .Summary -}}
+  {{- $description = .Summary | plainify | htmlUnescape -}}
+{{- end -}}
+{{- return (trim ($description | plainify) " \n") -}}

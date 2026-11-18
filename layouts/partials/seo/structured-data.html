@@ -1,0 +1,147 @@
+{{- /* JSON-LD structured data: organization, website, the current page and its breadcrumbs. */ -}}
+{{- $org := site.Params.organization -}}
+{{- $home := site.Home.Permalink -}}
+{{- $orgId := printf "%s#organization" $home -}}
+{{- $websiteId := printf "%s#website" $home -}}
+{{- $pageId := printf "%s#webpage" .Permalink -}}
+{{- $orgRef := dict "@id" $orgId -}}
+{{- $websiteRef := dict "@id" $websiteId -}}
+{{- $description := partial "seo/description.html" . -}}
+{{- $image := partial "seo/image.html" . -}}
+
+{{- /* organization */ -}}
+{{- $address := dict
+  "@type" "PostalAddress"
+  "addressLocality" $org.locality
+  "addressRegion" $org.region
+  "addressCountry" $org.country
+-}}
+{{- $members := slice -}}
+{{- with site.GetPage "/autores" -}}
+  {{- range .RegularPages.ByTitle -}}
+    {{- $members = $members | append (dict "@type" "Person" "name" .Title "url" .Permalink) -}}
+  {{- end -}}
+{{- end -}}
+{{- $organization := dict
+  "@type" "Organization"
+  "@id" $orgId
+  "name" $org.name
+  "alternateName" $org.alternate_names
+  "url" $home
+  "description" site.Params.metadata.description
+  "email" $org.email
+  "foundingDate" $org.founding_date
+  "address" $address
+  "location" (dict "@type" "Place" "name" $org.venue "url" $org.venue_url "address" $address)
+  "areaServed" (dict "@type" "City" "name" $org.locality)
+  "knowsAbout" $org.knows_about
+  "member" $members
+-}}
+{{- with resources.Get site.Params.logo -}}
+  {{- $organization = merge $organization (dict "logo" (dict "@type" "ImageObject" "url" .Permalink "width" .Width "height" .Height)) -}}
+{{- end -}}
+{{- with resources.Get site.Params.metadata.image -}}
+  {{- $organization = merge $organization (dict "image" .Permalink) -}}
+{{- end -}}
+
+{{- $website := dict
+  "@type" "WebSite"
+  "@id" $websiteId
+  "url" $home
+  "name" $org.name
+  "alternateName" $org.alternate_names
+  "description" site.Params.metadata.description
+  "inLanguage" site.LanguageCode
+  "publisher" $orgRef
+-}}
+
+{{- $graph := slice $organization $website -}}
+
+{{- /* current page */ -}}
+{{- $page := dict
+  "@id" $pageId
+  "url" .Permalink
+  "name" (.Params.meta_title | default .Title | default site.Title)
+  "description" $description
+  "inLanguage" site.LanguageCode
+  "isPartOf" $websiteRef
+-}}
+{{- with $image.url -}}
+  {{- $page = merge $page (dict "primaryImageOfPage" (dict "@type" "ImageObject" "url" .)) -}}
+{{- end -}}
+
+{{- if .IsHome -}}
+  {{- $page = merge $page (dict "@type" "WebPage" "about" $orgRef) -}}
+{{- else if and .IsPage (eq .Section "blog") -}}
+  {{- $page = merge $page (dict "@type" "WebPage") -}}
+  {{- $author := dict "@type" "Person" "name" .Params.author -}}
+  {{- with site.GetPage (printf "/autores/%s" (urlize .Params.author)) -}}
+    {{- $author = merge $author (dict "url" .Permalink) -}}
+  {{- else -}}
+    {{- if eq (lower .Params.author) (lower $org.name) -}}
+      {{- $author = $orgRef -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $post := dict
+    "@type" "BlogPosting"
+    "@id" (printf "%s#article" .Permalink)
+    "headline" (.Title | plainify)
+    "description" $description
+    "datePublished" (.PublishDate.Format "2006-01-02T15:04:05Z07:00")
+    "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00")
+    "inLanguage" site.LanguageCode
+    "author" $author
+    "publisher" $orgRef
+    "mainEntityOfPage" (dict "@id" $pageId)
+    "isPartOf" $websiteRef
+  -}}
+  {{- with $image.url -}}{{- $post = merge $post (dict "image" .) -}}{{- end -}}
+  {{- with .Params.tags -}}{{- $post = merge $post (dict "keywords" (delimit . ", ")) -}}{{- end -}}
+  {{- with .Params.categories -}}{{- $post = merge $post (dict "articleSection" (index . 0)) -}}{{- end -}}
+  {{- $graph = $graph | append $post -}}
+{{- else if and .IsPage (eq .Section "autores") -}}
+  {{- $sameAs := slice -}}
+  {{- range .Params.social -}}
+    {{- if and .link (not (hasPrefix .link "mailto:")) -}}
+      {{- $sameAs = $sameAs | append .link -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $personId := printf "%s#person" .Permalink -}}
+  {{- $person := dict
+    "@type" "Person"
+    "@id" $personId
+    "name" .Title
+    "url" .Permalink
+    "description" $description
+    "memberOf" $orgRef
+  -}}
+  {{- with $sameAs -}}{{- $person = merge $person (dict "sameAs" .) -}}{{- end -}}
+  {{- with $image.url -}}{{- $person = merge $person (dict "image" .) -}}{{- end -}}
+  {{- $page = merge $page (dict "@type" "ProfilePage" "mainEntity" (dict "@id" $personId)) -}}
+  {{- $graph = $graph | append $person -}}
+{{- else if eq .Section "nosotros" -}}
+  {{- $page = merge $page (dict "@type" "AboutPage" "about" $orgRef) -}}
+{{- else if eq .Section "contacto" -}}
+  {{- $page = merge $page (dict "@type" "ContactPage" "about" $orgRef) -}}
+{{- else if not .IsPage -}}
+  {{- $page = merge $page (dict "@type" "CollectionPage") -}}
+{{- else -}}
+  {{- $page = merge $page (dict "@type" "WebPage") -}}
+{{- end -}}
+
+{{- /* breadcrumbs */ -}}
+{{- if not .IsHome -}}
+  {{- $crumbs := slice -}}
+  {{- range $i, $p := .Ancestors.Reverse -}}
+    {{- $name := cond $p.IsHome (T "home" | default "Inicio") $p.Title -}}
+    {{- $crumbs = $crumbs | append (dict "@type" "ListItem" "position" (add $i 1) "name" $name "item" $p.Permalink) -}}
+  {{- end -}}
+  {{- $crumbs = $crumbs | append (dict "@type" "ListItem" "position" (add (len $crumbs) 1) "name" (.Title | plainify) "item" .Permalink) -}}
+  {{- $page = merge $page (dict "breadcrumb" (dict "@id" (printf "%s#breadcrumb" .Permalink))) -}}
+  {{- $graph = $graph | append (dict "@type" "BreadcrumbList" "@id" (printf "%s#breadcrumb" .Permalink) "itemListElement" $crumbs) -}}
+{{- end -}}
+
+{{- $graph = $graph | append $page -}}
+<script type="application/ld+json">
+  {{ dict "@context" "https://schema.org" "@graph" $graph | jsonify | safeJS }}
+</script>
