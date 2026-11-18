@@ -3,6 +3,22 @@
   {{ $image := .Params.image }}
   {{ if $image }}
     {{ partial "image" (dict "Src" $image "Context" . "Alt" .Title "Size" "720x360" "Command" "Fill" "Class" "mb-6 w-full max-h-[180px] rounded object-cover mx-auto") }}
+  {{ else }}
+    {{/* Posts without an image get a woven placeholder so the card grid stays even. */}}
+    {{ $id := printf "weave-%s" (.File.UniqueID | default (md5 .RelPermalink)) }}
+    <svg
+      class="bg-light dark:bg-darkmode-light text-border dark:text-darkmode-border mb-6 h-[180px] w-full rounded"
+      aria-hidden="true"
+      xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <pattern id="{{ $id }}" width="32" height="32" patternUnits="userSpaceOnUse">
+          <g stroke="currentColor" stroke-width="3" stroke-linecap="round">
+            <path d="M3 4h10M3 8h10M3 12h10M20 3v10M24 3v10M28 3v10M4 19v10M8 19v10M12 19v10M19 20h10M19 24h10M19 28h10" />
+          </g>
+        </pattern>
+      </defs>
+      <rect width="100%" height="100%" fill="url(#{{ $id }})" />
+    </svg>
   {{ end }}
 
   <h4 class="mb-3">
