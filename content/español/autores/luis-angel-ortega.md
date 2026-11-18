@@ -2,7 +2,7 @@
 title: Luis Ángel Ortega
 email: hey@luisangel.me
 image: "/images/authors/luis-angel-ortega.jpg"
-description: Luis Ángel Ortega Holguín (1998, Chihuahua), desarrollador de software de profesión, es un profesor, escritor y poeta mexicano.
+description: Luis Ángel Ortega Holguín (1998, Chihuahua), desarrollador de software de profesión, es un profesor, escritor y poeta mexicano, ganador del Premio Estatal de Literatura Joven 2026.
 aliases: ["/luis-angel-ortega", "/luis-ortega"]
 social:
   - name: webpage
@@ -39,6 +39,6 @@ Luis Ángel Ortega Holguín (1998, Chihuahua), desarrollador de software de prof
 
 Su cuento *Titán* obtuvo el tercer lugar en la categoría de egresados del 4.º Concurso de Cuento Corto de la Red de Bibliotecas Lasallistas, y forma parte de la antología resultante, actualmente en proceso editorial. En 2020, su poema más conocido, *Una Cucharadita de Sol*, fue seleccionado ganador de la convocatoria Quarantine Poetry: Homemade Poems Competition” y se publicó en la antología *Quarantine Poetry: 2020 Homemade Poems*, traducido al inglés, francés, italiano e indonesio.
 
-En 2024, participó en las exposiciones internacionales de la comunidad literaria Aventuras de Papel en Mar del Plata, Argentina, con su poema *El Templo sin Tiempo* y el cuento *L05T P03T45*. Ese mismo año, fue seleccionado como beneficiario del Fondo Municipal para Artistas y Creadores (FOMAC) en su octava edición con su proyecto *La cueva*. Actualmente, forma parte de El Telar, un colectivo literario en Chihuahua, donde participa en lecturas y eventos culturales como el Bazar Verano de Palabras Vol. 2 en el Museo Sebastián Casa Siglo XIX.
+En 2024, participó en las exposiciones internacionales de la comunidad literaria Aventuras de Papel en Mar del Plata, Argentina, con su poema *El Templo sin Tiempo* y el cuento *L05T P03T45*. En 2025, fue seleccionado como beneficiario del Fondo Municipal para Artistas y Creadores (FOMAC) en su octava edición con su proyecto *La cueva*. En 2026, obtuvo el Premio Estatal de Literatura Joven en la categoría de cuento “Nellie Campobello” con *El oficio de las cosas*, que recibió durante la Feria del Libro de Chihuahua (FELICH) 2026. Actualmente, forma parte de El Telar, un colectivo literario en Chihuahua, donde participa en lecturas y eventos culturales como el Bazar Verano de Palabras Vol. 2 en el Museo Sebastián Casa Siglo XIX.
 
 Cuando no está escribiendo cuentos o poemas, Ortega reflexiona sobre temas técnicos y otros no tan técnicos en su blog. Él espera que la gente vuelva a usar RSS y reproductores de mp3.
