@@ -1,6 +1,6 @@
 ---
 title: "Mauricio Padilla obtiene apoyo del FONCA"
-meta_title: "Con enorme satisfacción compartimos que nuestro compañero Mauricio Padilla ha sido seleccionado como beneficiario del programa FONCA (Fondo Nacional para la Cultura y las Artes), sumando así un nuevo reconocimiento a su destacada trayectoria en 2025."
+meta_title: "Mauricio Padilla, beneficiario del FONCA Jóvenes Creadores 2025"
 description: "Con enorme satisfacción compartimos que nuestro compañero Mauricio Padilla ha sido seleccionado como beneficiario del programa FONCA (Fondo Nacional para la Cultura y las Artes), sumando así un nuevo reconocimiento a su destacada trayectoria en 2025."
 date: 2025-10-15T05:00:00Z
 image: "/images/blog/mauricio-padilla-fonca-2025.jpg"
