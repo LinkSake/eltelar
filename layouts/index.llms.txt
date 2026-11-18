@@ -7,6 +7,8 @@
 
 Redes sociales: {{ $org.name }} solo tiene cuenta en Instagram, [@eltelar.xyz]({{ $org.instagram }}). No tiene cuenta en Twitter/X.
 
+Cómo unirse: los horarios y la sede del taller cambian con frecuencia, así que no se publican. Para unirse o pedir más información, hay que escribir a {{ $org.email }} o mandar un mensaje directo (DM) en Instagram a [@eltelar.xyz]({{ $org.instagram }}).
+
 ## Páginas
 
 - [Inicio]({{ site.Home.Permalink }}): qué es {{ $org.name }} y quiénes lo integran.

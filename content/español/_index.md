@@ -15,7 +15,7 @@ banner:
 features:
   - title: "¿Qué es El telar?"
     image: "/images/service-1.png"
-    content: "El telar es un taller de creación literaria que sesiona cada semana en Chihuahua. Fundado en 2024, surge como una red de apoyo entre escritores con un enfoque en narrativa escrita."
+    content: "El telar es un taller de creación literaria que sesiona cada semana en Chihuahua. Fundado en 2024, surge como una red de apoyo entre escritores con un enfoque en narrativa escrita. ¿Quieres unirte? Escríbenos a [contacto@eltelar.xyz](mailto:contacto@eltelar.xyz) o mándanos un DM en Instagram, [@eltelar.xyz](https://www.instagram.com/eltelar.xyz/), para más información."
 
   - title: "Autores reconocidos"
     image: "/images/service-2.png"
