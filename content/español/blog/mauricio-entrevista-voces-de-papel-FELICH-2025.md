@@ -3,7 +3,7 @@ title: "Entrevista de Mauricio Padilla con Voces de Papel en la FELICH 2025"
 date: 2025-10-29T22:23:35-06:00
 meta_title: "Entrevista de Mauricio Padilla con Voces de Papel en la FELICH 2025"
 description: "Nuestro compañero de taller Mauricio Padilla continúa sumando visibilidad a su trabajo literario. Recientemente fue entrevistado por la revista Voces de mi región para hablar sobre su más reciente publicación Historias para ir por cigarros a la gasolinera"
-image: "/images/blog/mauricio-entrevista-voces-de-papel-FELICH-2025.png"
+image: "/images/blog/mauricio-entrevista-voces-de-papel-FELICH-2025.jpg"
 categories: ["Entrevista"]
 author: "Mauricio Padilla"
 tags: ["presentación", "felich", "Voces de mi región"]
