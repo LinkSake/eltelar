@@ -1,5 +1,5 @@
 ---
-title: Jesús Nevarez
+title: Jesús Nevárez
 email: shuy.nevarez@email.com
 image: "/images/authors/jesus-nevarez.jpg"
 description: Jesús Nevárez (1995, Chihuahua) es un autor mexicano cuya obra entrelaza la precisión técnica con una intensidad narrativa profundamente humana.
