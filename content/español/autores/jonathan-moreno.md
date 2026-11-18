@@ -4,6 +4,7 @@ email: jonathan.moreno@gmail.com
 image: "/images/authors/jonathan-moreno.jpg"
 description: Jonathan Moreno Esquivel (Chihuahua, Chih., México, 7 de noviembre de 1995), licenciado en Letras españolas por parte de la Universidad Autónoma de Chihuahua, con Especialidad en Guion cinematográfico por parte de la Facultad de Cine.
 aliases: ["/jonathan-moreno"]
+former: true
 # works:
   # - name: Luces Oscuras (Amazon México)
     # image: "/images/avatar.png"
