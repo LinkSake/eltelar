@@ -10,11 +10,11 @@
   </h4>
 
   {{ $categories := .Params.categories }}
-  {{ if $categories }}
-    <ul class="mb-4">
-      <li class="mr-4 inline-block">
-        {{ partial "components/author-link" . }}
-      </li>
+  <ul class="mb-4">
+    <li class="mr-4 inline-block">
+      {{ partial "components/author-link" . }}
+    </li>
+    {{ if $categories }}
       <li class="mr-4 inline-block">
         <i class="fa-regular fa-folder mr-1"></i>
         {{ range $i, $p := $categories }}
@@ -26,8 +26,8 @@
           </a>
         {{ end }}
       </li>
-    </ul>
-  {{ end }}
+    {{ end }}
+  </ul>
 
   <p class="mb-6">{{ .Summary | plainify }}</p>
   <a class="btn btn-outline-primary btn-sm" href="{{ .RelPermalink }}">
