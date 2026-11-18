@@ -1,5 +1,5 @@
 ---
-title: Mayi Gonzalez
+title: Mayi González
 email: mayigonzalez@email.com
 description: Licenciada en educación primaria.
 aliases: ["/mayi-gonzalez"]
