@@ -1,9 +1,9 @@
 {
   "main": [
     {
-      "name": "website",
-      "icon": "fa-solid fa-globe",
-      "link": "https://www.eltelar.xyz/"
+      "name": "email",
+      "icon": "fa-solid fa-envelope",
+      "link": "mailto:contacto@eltelar.xyz"
     },
     {
       "name": "instagram",
