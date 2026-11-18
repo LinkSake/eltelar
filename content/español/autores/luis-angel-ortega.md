@@ -11,7 +11,7 @@ social:
 
   - name: bluesky
     icon: fa-brands fa-square-bluesky
-    link: https://bsky.app/profile/linksake.bsky.social
+    link: https://bsky.app/profile/luisangel.me
 
   - name: mastodon
     icon: fa-brands fa-mastodon
@@ -27,7 +27,7 @@ social:
 
   - name: email
     icon: fa-solid fa-envelope
-    link: mailto:c.alejandromanzano@gmail.com
+    link: mailto:hey@luisangel.me
 
 # works:
   # - name: Quarantine Poetry - 2020 home made poems (Payhip)
