@@ -5,7 +5,7 @@ description: "Queremos agradecer a todos los que nos acompañaron el pasado juev
 date: 2024-09-20T05:00:00Z
 image: "/images/blog/el-evento-en-el-museo-sebastian-fue-un-exito/4.jpeg"
 categories: ["Galería", "Evento"]
-author: "El telar"
+author: "El Telar"
 tags: ["presentación", "Museo Sebastián Casa Siglo XIX"]
 draft: false
 ---

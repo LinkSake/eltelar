@@ -5,7 +5,7 @@ description: "Dos escritores chihuahuenses, miembros de El Telar, presentarán s
 date: 2025-07-14T05:00:00Z
 image: "/images/blog/acompananos-este-viernes-18-de-julio-en-la-mediateca/1.jpeg"
 categories: ["Anuncio", "Evento"]
-author: "El telar"
+author: "El Telar"
 tags: ["presentación", "Mediateca"]
 draft: false
 ---

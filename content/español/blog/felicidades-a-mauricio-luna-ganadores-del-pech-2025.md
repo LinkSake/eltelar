@@ -5,7 +5,7 @@ description: "Queremos celebrar con entusiasmo el reconocimiento que nuestros co
 date: 2025-06-28T05:00:00Z
 image: "/images/blog/felicidades-a-mauricio-luna-ganadores-del-pech-2025.jpg"
 categories: ["Premios"]
-author: "El telar"
+author: "El Telar"
 tags: ["PECH", "Entre dos tierras", "Historias para ir por cigarros"]
 draft: false
 ---
