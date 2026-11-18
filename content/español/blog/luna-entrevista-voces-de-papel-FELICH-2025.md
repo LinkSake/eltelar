@@ -3,7 +3,7 @@ title: "Entrevista de Luna Sophia Terra con Voces de Papel en la FELICH 2025"
 date: 2025-10-29T22:23:35-06:00
 meta_title: "Entrevista de Luna Sophia Terra con Voces de Papel en la FELICH 2025"
 description: "Con gran satisfacción compartimos que nuestra compañera Luna fue entrevistada recientemente para hablar sobre su nuevo libro 'Entre dos tierras', sumando así un nuevo capítulo a su destacada trayectoria literaria."
-image: "/images/blog/luna-entrevista-voces-de-papel-FELICH-2025.png"
+image: "/images/blog/luna-entrevista-voces-de-papel-FELICH-2025.jpg"
 categories: ["Entrevista"]
 author: "Luna Sophia Terra"
 tags: ["presentación", "felich", "Voces de mi región"]
