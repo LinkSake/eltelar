@@ -15,7 +15,7 @@ banner:
 features:
   - title: "¿Qué es El telar?"
     image: "/images/service-1.png"
-    content: "El telar es un taller de creación literaria que sesiona cada semana en el LivingLab, ubicado en el Parque Industrial Las Américas, en Chihuahua. Fundado en 2024, surge como una red de apoyo entre escritores con un enfoque en narrativa escrita."
+    content: "El telar es un taller de creación literaria que sesiona cada semana en Chihuahua. Fundado en 2024, surge como una red de apoyo entre escritores con un enfoque en narrativa escrita."
 
   - title: "Autores reconocidos"
     image: "/images/service-2.png"

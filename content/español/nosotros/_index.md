@@ -1,13 +1,13 @@
 ---
 title: "Sobre nosotros"
 meta_title: "Sobre nosotros: taller de creación literaria en Chihuahua"
-description: "El Telar es un taller de creación literaria que sesiona cada semana en el LivingLab, dentro del Parque Industrial Las Américas, en Chihuahua, Chihuahua."
+description: "El Telar es un taller de creación literaria que sesiona cada semana en Chihuahua, Chihuahua."
 image: "/images/logo.jpg"
 meta_image: "/images/banner.png"
 draft: false
 ---
 
-El Telar es un taller de creación literaria que sesiona cada semana en el [LivingLab](https://livinglab.io/home), dentro del Parque Industrial Las Américas, en Chihuahua, Chihuahua.
+El Telar es un taller de creación literaria que sesiona cada semana en Chihuahua, Chihuahua.
 
 Todos sus integrantes son egresados de las Fases I y II del Taller de Creación Literaria “Tejiendo Relatos”, dirigido por el escritor de ciencia-ficción chihuahuense Alejandro Manzano.
 

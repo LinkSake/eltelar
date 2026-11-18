@@ -4,6 +4,11 @@
       "name": "website",
       "icon": "fa-solid fa-globe",
       "link": "https://www.eltelar.xyz/"
+    },
+    {
+      "name": "instagram",
+      "icon": "fa-brands fa-instagram",
+      "link": "https://www.instagram.com/eltelar.xyz/"
     }
   ]
 }
